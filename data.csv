@@ -1,0 +1,2001 @@
+business_type,city_tier,monthly_spend,monthly_volume,switch_likelihood
+E-commerce,Tier 3,5L+,5000-10000,Neutral
+Catering,Tier 3,<10K,1000-5000,Very Unlikely
+Retail,Tier 2,50K-1L,5000-10000,Very Likely
+Catering,Tier 1,10K-50K,1000-5000,Very Likely
+Catering,Tier 2,10K-50K,<1000,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,<1000,Neutral
+Retail,Tier 1,10K-50K,10000+,Likely
+Retail,Tier 1,<10K,1000-5000,Neutral
+Retail,Tier 2,<10K,<1000,Very Likely
+Catering,Tier 1,50K-1L,1000-5000,Likely
+E-commerce,Tier 2,10K-50K,<1000,Neutral
+Retail,Tier 3,<10K,5000-10000,Very Unlikely
+Catering,Tier 3,<10K,<1000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,10000+,Neutral
+E-commerce,Tier 2,1L-5L,5000-10000,Neutral
+Cloud Kitchen,Tier 3,<10K,10000+,Very Unlikely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Likely
+Catering,Tier 2,5L+,1000-5000,Unlikely
+Restaurant,Tier 1,5L+,10000+,Neutral
+E-commerce,Tier 3,<10K,<1000,Likely
+Cloud Kitchen,Tier 1,<10K,1000-5000,Neutral
+Catering,Tier 1,<10K,<1000,Unlikely
+E-commerce,Tier 3,50K-1L,5000-10000,Neutral
+Restaurant,Tier 3,1L-5L,5000-10000,Very Unlikely
+Restaurant,Tier 2,<10K,<1000,Neutral
+Retail,Tier 3,<10K,<1000,Neutral
+Retail,Tier 2,10K-50K,1000-5000,Likely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Very Unlikely
+E-commerce,Tier 2,<10K,10000+,Very Unlikely
+E-commerce,Tier 3,10K-50K,10000+,Neutral
+Retail,Tier 1,5L+,<1000,Likely
+E-commerce,Tier 2,<10K,10000+,Neutral
+E-commerce,Tier 1,<10K,<1000,Neutral
+Restaurant,Tier 1,10K-50K,1000-5000,Unlikely
+Retail,Tier 3,50K-1L,10000+,Unlikely
+Catering,Tier 1,<10K,10000+,Likely
+Retail,Tier 1,5L+,<1000,Very Likely
+Catering,Tier 3,<10K,10000+,Unlikely
+Restaurant,Tier 2,5L+,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 3,1L-5L,1000-5000,Unlikely
+Restaurant,Tier 1,5L+,10000+,Unlikely
+E-commerce,Tier 1,50K-1L,10000+,Likely
+Cloud Kitchen,Tier 2,<10K,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,<10K,5000-10000,Unlikely
+Restaurant,Tier 3,1L-5L,10000+,Unlikely
+Cloud Kitchen,Tier 1,5L+,10000+,Likely
+Catering,Tier 2,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 2,<10K,<1000,Very Likely
+E-commerce,Tier 3,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 2,10K-50K,<1000,Very Unlikely
+E-commerce,Tier 1,1L-5L,1000-5000,Neutral
+E-commerce,Tier 2,1L-5L,1000-5000,Unlikely
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Retail,Tier 2,<10K,<1000,Unlikely
+Restaurant,Tier 2,50K-1L,5000-10000,Very Likely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,1L-5L,<1000,Very Likely
+E-commerce,Tier 2,50K-1L,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Likely
+Cloud Kitchen,Tier 1,<10K,10000+,Unlikely
+E-commerce,Tier 3,10K-50K,10000+,Very Likely
+Catering,Tier 2,5L+,5000-10000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Very Likely
+E-commerce,Tier 2,5L+,1000-5000,Neutral
+Cloud Kitchen,Tier 2,50K-1L,<1000,Likely
+Cloud Kitchen,Tier 1,<10K,<1000,Very Likely
+E-commerce,Tier 1,<10K,1000-5000,Neutral
+E-commerce,Tier 1,<10K,5000-10000,Very Likely
+Restaurant,Tier 3,50K-1L,10000+,Unlikely
+Catering,Tier 3,5L+,1000-5000,Neutral
+Catering,Tier 1,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Unlikely
+Catering,Tier 2,50K-1L,5000-10000,Neutral
+Cloud Kitchen,Tier 2,5L+,1000-5000,Very Unlikely
+Restaurant,Tier 2,50K-1L,5000-10000,Neutral
+E-commerce,Tier 1,50K-1L,1000-5000,Very Unlikely
+E-commerce,Tier 3,1L-5L,5000-10000,Very Likely
+E-commerce,Tier 1,50K-1L,1000-5000,Very Likely
+Catering,Tier 3,50K-1L,10000+,Neutral
+Restaurant,Tier 2,10K-50K,10000+,Very Likely
+Catering,Tier 1,<10K,<1000,Likely
+Catering,Tier 3,1L-5L,5000-10000,Unlikely
+Restaurant,Tier 3,1L-5L,1000-5000,Unlikely
+Restaurant,Tier 2,1L-5L,5000-10000,Very Unlikely
+Restaurant,Tier 1,10K-50K,10000+,Very Likely
+Restaurant,Tier 1,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 1,<10K,1000-5000,Unlikely
+Retail,Tier 2,5L+,5000-10000,Unlikely
+Retail,Tier 1,50K-1L,1000-5000,Very Likely
+Restaurant,Tier 2,10K-50K,10000+,Likely
+Retail,Tier 2,50K-1L,10000+,Likely
+Retail,Tier 2,50K-1L,10000+,Very Likely
+Restaurant,Tier 3,10K-50K,<1000,Very Likely
+Retail,Tier 1,1L-5L,10000+,Very Unlikely
+Catering,Tier 1,1L-5L,5000-10000,Very Likely
+Cloud Kitchen,Tier 2,<10K,<1000,Likely
+Cloud Kitchen,Tier 2,<10K,10000+,Very Likely
+Restaurant,Tier 1,1L-5L,5000-10000,Very Unlikely
+E-commerce,Tier 2,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 1,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 3,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Neutral
+Restaurant,Tier 1,1L-5L,5000-10000,Very Likely
+Catering,Tier 2,<10K,1000-5000,Unlikely
+Retail,Tier 1,<10K,10000+,Very Likely
+E-commerce,Tier 1,5L+,5000-10000,Neutral
+Retail,Tier 2,<10K,1000-5000,Very Unlikely
+Retail,Tier 3,1L-5L,5000-10000,Neutral
+Restaurant,Tier 1,5L+,<1000,Likely
+Retail,Tier 1,50K-1L,<1000,Likely
+Catering,Tier 1,<10K,10000+,Very Likely
+Retail,Tier 3,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 3,<10K,1000-5000,Unlikely
+Catering,Tier 2,50K-1L,10000+,Unlikely
+Cloud Kitchen,Tier 3,5L+,5000-10000,Likely
+Retail,Tier 2,50K-1L,10000+,Very Unlikely
+Restaurant,Tier 2,10K-50K,1000-5000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,10000+,Unlikely
+Cloud Kitchen,Tier 2,<10K,10000+,Unlikely
+E-commerce,Tier 3,5L+,10000+,Very Unlikely
+Catering,Tier 2,1L-5L,5000-10000,Very Unlikely
+Retail,Tier 3,50K-1L,1000-5000,Very Likely
+Restaurant,Tier 3,5L+,<1000,Neutral
+E-commerce,Tier 2,1L-5L,5000-10000,Very Unlikely
+Catering,Tier 1,5L+,<1000,Unlikely
+E-commerce,Tier 2,10K-50K,<1000,Unlikely
+Catering,Tier 3,10K-50K,5000-10000,Likely
+Catering,Tier 1,<10K,5000-10000,Very Unlikely
+Retail,Tier 2,<10K,1000-5000,Very Likely
+Catering,Tier 2,10K-50K,1000-5000,Neutral
+E-commerce,Tier 2,5L+,10000+,Very Likely
+Catering,Tier 1,10K-50K,<1000,Unlikely
+Retail,Tier 3,<10K,1000-5000,Very Likely
+Retail,Tier 2,10K-50K,10000+,Unlikely
+E-commerce,Tier 2,10K-50K,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Unlikely
+Catering,Tier 2,<10K,<1000,Unlikely
+Restaurant,Tier 3,5L+,1000-5000,Likely
+Catering,Tier 3,10K-50K,<1000,Very Likely
+E-commerce,Tier 2,10K-50K,5000-10000,Likely
+E-commerce,Tier 1,1L-5L,<1000,Likely
+E-commerce,Tier 3,<10K,1000-5000,Very Unlikely
+E-commerce,Tier 1,<10K,10000+,Very Unlikely
+E-commerce,Tier 3,50K-1L,5000-10000,Very Unlikely
+Retail,Tier 2,<10K,1000-5000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Very Unlikely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Likely
+Restaurant,Tier 3,50K-1L,1000-5000,Likely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Likely
+Restaurant,Tier 2,10K-50K,10000+,Very Unlikely
+Restaurant,Tier 2,<10K,5000-10000,Neutral
+Retail,Tier 2,50K-1L,5000-10000,Neutral
+Restaurant,Tier 1,10K-50K,1000-5000,Likely
+E-commerce,Tier 2,1L-5L,<1000,Very Likely
+Catering,Tier 1,10K-50K,1000-5000,Unlikely
+Restaurant,Tier 1,10K-50K,5000-10000,Very Likely
+Retail,Tier 2,50K-1L,1000-5000,Very Unlikely
+Retail,Tier 1,50K-1L,10000+,Unlikely
+Restaurant,Tier 3,5L+,<1000,Neutral
+Catering,Tier 2,1L-5L,1000-5000,Likely
+Restaurant,Tier 1,50K-1L,10000+,Likely
+Retail,Tier 2,<10K,5000-10000,Neutral
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 2,1L-5L,5000-10000,Neutral
+Retail,Tier 1,50K-1L,10000+,Very Unlikely
+Restaurant,Tier 3,1L-5L,5000-10000,Unlikely
+E-commerce,Tier 3,50K-1L,10000+,Neutral
+Restaurant,Tier 1,10K-50K,10000+,Very Unlikely
+Restaurant,Tier 2,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,1000-5000,Neutral
+E-commerce,Tier 1,50K-1L,5000-10000,Likely
+E-commerce,Tier 1,50K-1L,5000-10000,Neutral
+Cloud Kitchen,Tier 2,10K-50K,<1000,Very Likely
+Retail,Tier 1,<10K,<1000,Neutral
+Restaurant,Tier 2,<10K,<1000,Very Likely
+Catering,Tier 1,<10K,<1000,Unlikely
+Restaurant,Tier 3,50K-1L,5000-10000,Neutral
+Restaurant,Tier 1,1L-5L,10000+,Unlikely
+Retail,Tier 1,50K-1L,10000+,Unlikely
+Restaurant,Tier 3,1L-5L,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 2,10K-50K,10000+,Unlikely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Unlikely
+E-commerce,Tier 1,1L-5L,5000-10000,Neutral
+Catering,Tier 3,<10K,5000-10000,Neutral
+Restaurant,Tier 2,50K-1L,1000-5000,Likely
+Restaurant,Tier 1,10K-50K,<1000,Very Unlikely
+Retail,Tier 3,<10K,10000+,Unlikely
+Cloud Kitchen,Tier 2,10K-50K,5000-10000,Very Unlikely
+Catering,Tier 2,5L+,5000-10000,Very Likely
+E-commerce,Tier 3,50K-1L,<1000,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 3,5L+,10000+,Likely
+Retail,Tier 3,50K-1L,1000-5000,Likely
+Retail,Tier 1,1L-5L,5000-10000,Unlikely
+Restaurant,Tier 3,10K-50K,10000+,Very Likely
+Catering,Tier 2,<10K,5000-10000,Likely
+E-commerce,Tier 2,5L+,<1000,Likely
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Very Likely
+Retail,Tier 2,<10K,5000-10000,Very Unlikely
+Restaurant,Tier 2,<10K,1000-5000,Likely
+Restaurant,Tier 3,5L+,<1000,Neutral
+E-commerce,Tier 2,1L-5L,<1000,Likely
+Retail,Tier 1,<10K,1000-5000,Very Unlikely
+Catering,Tier 3,<10K,5000-10000,Very Unlikely
+Retail,Tier 3,1L-5L,10000+,Unlikely
+E-commerce,Tier 1,50K-1L,<1000,Neutral
+E-commerce,Tier 3,<10K,<1000,Very Unlikely
+Retail,Tier 3,10K-50K,5000-10000,Very Likely
+E-commerce,Tier 1,1L-5L,5000-10000,Neutral
+Retail,Tier 3,<10K,<1000,Neutral
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Likely
+Retail,Tier 1,10K-50K,10000+,Likely
+Retail,Tier 2,<10K,<1000,Very Likely
+E-commerce,Tier 2,10K-50K,10000+,Very Likely
+E-commerce,Tier 3,10K-50K,10000+,Likely
+Restaurant,Tier 3,50K-1L,5000-10000,Likely
+Restaurant,Tier 1,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Likely
+Restaurant,Tier 1,1L-5L,1000-5000,Likely
+Retail,Tier 1,50K-1L,5000-10000,Very Likely
+E-commerce,Tier 3,5L+,10000+,Unlikely
+Restaurant,Tier 1,<10K,1000-5000,Unlikely
+Restaurant,Tier 2,1L-5L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Unlikely
+Cloud Kitchen,Tier 2,5L+,<1000,Unlikely
+Retail,Tier 3,50K-1L,<1000,Very Likely
+E-commerce,Tier 1,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Likely
+Restaurant,Tier 2,10K-50K,<1000,Very Likely
+E-commerce,Tier 1,50K-1L,10000+,Unlikely
+E-commerce,Tier 3,1L-5L,10000+,Very Likely
+Restaurant,Tier 3,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Likely
+Restaurant,Tier 2,<10K,1000-5000,Neutral
+E-commerce,Tier 2,<10K,1000-5000,Very Unlikely
+Catering,Tier 3,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 1,10K-50K,1000-5000,Very Likely
+Retail,Tier 1,1L-5L,1000-5000,Unlikely
+Restaurant,Tier 2,5L+,5000-10000,Likely
+Restaurant,Tier 1,<10K,5000-10000,Neutral
+Retail,Tier 2,5L+,1000-5000,Very Unlikely
+Retail,Tier 3,1L-5L,5000-10000,Neutral
+Retail,Tier 2,<10K,5000-10000,Unlikely
+E-commerce,Tier 2,<10K,1000-5000,Unlikely
+Restaurant,Tier 3,5L+,10000+,Neutral
+E-commerce,Tier 1,50K-1L,5000-10000,Likely
+Retail,Tier 2,10K-50K,10000+,Unlikely
+Restaurant,Tier 2,50K-1L,5000-10000,Neutral
+E-commerce,Tier 3,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 1,10K-50K,1000-5000,Neutral
+Retail,Tier 2,50K-1L,5000-10000,Neutral
+Restaurant,Tier 3,10K-50K,<1000,Very Likely
+Retail,Tier 2,<10K,<1000,Unlikely
+Restaurant,Tier 3,50K-1L,1000-5000,Likely
+Catering,Tier 1,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 1,10K-50K,10000+,Very Likely
+Cloud Kitchen,Tier 1,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 1,50K-1L,<1000,Neutral
+Retail,Tier 2,1L-5L,10000+,Very Likely
+Catering,Tier 2,50K-1L,10000+,Very Unlikely
+Restaurant,Tier 1,5L+,1000-5000,Unlikely
+E-commerce,Tier 1,50K-1L,10000+,Unlikely
+Restaurant,Tier 1,10K-50K,<1000,Unlikely
+E-commerce,Tier 2,<10K,<1000,Neutral
+Restaurant,Tier 1,50K-1L,<1000,Very Unlikely
+Catering,Tier 1,50K-1L,1000-5000,Very Likely
+E-commerce,Tier 1,10K-50K,1000-5000,Very Likely
+Retail,Tier 3,<10K,5000-10000,Unlikely
+Restaurant,Tier 1,<10K,10000+,Very Unlikely
+Restaurant,Tier 3,5L+,1000-5000,Very Unlikely
+E-commerce,Tier 3,50K-1L,<1000,Very Unlikely
+Retail,Tier 1,<10K,<1000,Likely
+Retail,Tier 3,<10K,1000-5000,Likely
+Catering,Tier 1,1L-5L,1000-5000,Unlikely
+Retail,Tier 2,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 2,<10K,5000-10000,Very Unlikely
+Retail,Tier 2,5L+,<1000,Very Likely
+Cloud Kitchen,Tier 2,<10K,5000-10000,Very Likely
+Catering,Tier 3,10K-50K,5000-10000,Unlikely
+Restaurant,Tier 1,50K-1L,10000+,Very Unlikely
+E-commerce,Tier 1,5L+,<1000,Unlikely
+Restaurant,Tier 1,10K-50K,<1000,Very Likely
+Catering,Tier 2,5L+,1000-5000,Very Likely
+E-commerce,Tier 2,10K-50K,1000-5000,Likely
+Catering,Tier 1,50K-1L,10000+,Unlikely
+Retail,Tier 2,50K-1L,5000-10000,Unlikely
+E-commerce,Tier 1,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 1,10K-50K,1000-5000,Very Unlikely
+Restaurant,Tier 1,1L-5L,<1000,Likely
+Restaurant,Tier 1,10K-50K,<1000,Neutral
+E-commerce,Tier 1,1L-5L,1000-5000,Neutral
+E-commerce,Tier 1,50K-1L,<1000,Neutral
+Catering,Tier 1,5L+,10000+,Unlikely
+Catering,Tier 2,1L-5L,1000-5000,Unlikely
+Retail,Tier 1,10K-50K,<1000,Very Likely
+E-commerce,Tier 1,10K-50K,10000+,Unlikely
+Restaurant,Tier 2,50K-1L,<1000,Unlikely
+Catering,Tier 2,10K-50K,<1000,Unlikely
+Catering,Tier 2,<10K,<1000,Likely
+Restaurant,Tier 1,5L+,1000-5000,Unlikely
+Catering,Tier 3,1L-5L,5000-10000,Very Unlikely
+Retail,Tier 3,5L+,<1000,Very Unlikely
+E-commerce,Tier 2,50K-1L,10000+,Very Likely
+Restaurant,Tier 3,1L-5L,1000-5000,Likely
+E-commerce,Tier 2,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 1,<10K,10000+,Likely
+Catering,Tier 3,50K-1L,<1000,Likely
+Restaurant,Tier 1,10K-50K,5000-10000,Very Likely
+Retail,Tier 3,<10K,<1000,Likely
+Cloud Kitchen,Tier 1,<10K,10000+,Unlikely
+Restaurant,Tier 3,5L+,1000-5000,Likely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,5L+,1000-5000,Very Likely
+Retail,Tier 3,<10K,10000+,Very Likely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Unlikely
+Retail,Tier 1,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,10K-50K,1000-5000,Neutral
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,5L+,<1000,Likely
+Restaurant,Tier 1,1L-5L,5000-10000,Very Likely
+Restaurant,Tier 3,50K-1L,<1000,Neutral
+Restaurant,Tier 3,50K-1L,<1000,Unlikely
+Retail,Tier 1,1L-5L,<1000,Very Unlikely
+Catering,Tier 1,5L+,10000+,Very Likely
+Cloud Kitchen,Tier 1,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Unlikely
+Retail,Tier 3,1L-5L,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,<1000,Neutral
+Restaurant,Tier 3,50K-1L,<1000,Likely
+Catering,Tier 3,10K-50K,10000+,Very Unlikely
+E-commerce,Tier 3,<10K,<1000,Neutral
+Cloud Kitchen,Tier 3,5L+,<1000,Very Likely
+Restaurant,Tier 3,5L+,1000-5000,Likely
+E-commerce,Tier 3,10K-50K,<1000,Neutral
+Catering,Tier 3,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 2,<10K,<1000,Unlikely
+Restaurant,Tier 1,5L+,5000-10000,Very Likely
+E-commerce,Tier 1,5L+,10000+,Very Unlikely
+Retail,Tier 2,1L-5L,1000-5000,Likely
+E-commerce,Tier 2,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Unlikely
+Retail,Tier 3,10K-50K,1000-5000,Very Likely
+Restaurant,Tier 1,<10K,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,<10K,<1000,Unlikely
+Catering,Tier 1,5L+,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Likely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Unlikely
+Restaurant,Tier 3,50K-1L,<1000,Neutral
+E-commerce,Tier 2,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Unlikely
+Retail,Tier 1,<10K,<1000,Very Likely
+E-commerce,Tier 2,5L+,5000-10000,Neutral
+Catering,Tier 2,10K-50K,<1000,Very Likely
+Restaurant,Tier 1,<10K,<1000,Neutral
+Catering,Tier 1,1L-5L,10000+,Unlikely
+E-commerce,Tier 1,50K-1L,10000+,Very Unlikely
+E-commerce,Tier 2,<10K,10000+,Very Likely
+E-commerce,Tier 3,<10K,<1000,Neutral
+Catering,Tier 2,5L+,1000-5000,Likely
+E-commerce,Tier 3,5L+,5000-10000,Unlikely
+Catering,Tier 2,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 2,1L-5L,5000-10000,Unlikely
+Retail,Tier 1,5L+,10000+,Likely
+E-commerce,Tier 3,<10K,<1000,Very Unlikely
+Catering,Tier 2,5L+,10000+,Likely
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Unlikely
+E-commerce,Tier 1,5L+,<1000,Neutral
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Unlikely
+Retail,Tier 3,10K-50K,10000+,Unlikely
+Restaurant,Tier 2,<10K,10000+,Unlikely
+Retail,Tier 3,<10K,1000-5000,Very Likely
+E-commerce,Tier 2,50K-1L,1000-5000,Likely
+Cloud Kitchen,Tier 3,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Likely
+Catering,Tier 2,10K-50K,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,10K-50K,1000-5000,Neutral
+Catering,Tier 1,1L-5L,1000-5000,Unlikely
+Restaurant,Tier 1,50K-1L,10000+,Neutral
+E-commerce,Tier 3,1L-5L,10000+,Very Likely
+Catering,Tier 2,10K-50K,<1000,Likely
+Restaurant,Tier 2,<10K,<1000,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Very Unlikely
+Restaurant,Tier 2,50K-1L,1000-5000,Neutral
+Cloud Kitchen,Tier 2,50K-1L,<1000,Likely
+Restaurant,Tier 1,1L-5L,<1000,Very Unlikely
+Catering,Tier 3,50K-1L,<1000,Neutral
+Catering,Tier 2,5L+,5000-10000,Very Likely
+Restaurant,Tier 1,<10K,5000-10000,Neutral
+Catering,Tier 1,<10K,<1000,Neutral
+Catering,Tier 3,<10K,1000-5000,Neutral
+Catering,Tier 2,50K-1L,<1000,Unlikely
+Retail,Tier 2,50K-1L,5000-10000,Neutral
+E-commerce,Tier 3,10K-50K,1000-5000,Neutral
+Cloud Kitchen,Tier 3,10K-50K,5000-10000,Unlikely
+Retail,Tier 1,<10K,1000-5000,Unlikely
+Catering,Tier 1,5L+,5000-10000,Very Likely
+Restaurant,Tier 3,10K-50K,1000-5000,Likely
+Catering,Tier 2,10K-50K,1000-5000,Very Unlikely
+E-commerce,Tier 1,50K-1L,1000-5000,Very Unlikely
+Catering,Tier 1,5L+,1000-5000,Neutral
+Restaurant,Tier 2,<10K,10000+,Very Likely
+E-commerce,Tier 1,10K-50K,5000-10000,Neutral
+Catering,Tier 2,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 2,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Likely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Very Likely
+Catering,Tier 3,5L+,5000-10000,Unlikely
+E-commerce,Tier 3,5L+,10000+,Likely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Likely
+Catering,Tier 2,<10K,1000-5000,Very Likely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,<1000,Unlikely
+Catering,Tier 2,10K-50K,10000+,Very Likely
+E-commerce,Tier 1,<10K,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,50K-1L,<1000,Likely
+E-commerce,Tier 2,10K-50K,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Neutral
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Unlikely
+Retail,Tier 1,<10K,<1000,Neutral
+Cloud Kitchen,Tier 3,<10K,<1000,Unlikely
+Restaurant,Tier 3,<10K,1000-5000,Unlikely
+Catering,Tier 2,50K-1L,1000-5000,Very Likely
+Catering,Tier 3,<10K,<1000,Unlikely
+E-commerce,Tier 3,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 3,50K-1L,10000+,Unlikely
+E-commerce,Tier 1,5L+,1000-5000,Very Unlikely
+Retail,Tier 2,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 3,50K-1L,10000+,Unlikely
+E-commerce,Tier 1,10K-50K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,1000-5000,Unlikely
+Retail,Tier 1,<10K,10000+,Unlikely
+E-commerce,Tier 3,1L-5L,10000+,Unlikely
+Restaurant,Tier 3,<10K,10000+,Neutral
+Restaurant,Tier 2,<10K,5000-10000,Very Unlikely
+Catering,Tier 3,5L+,1000-5000,Likely
+Retail,Tier 3,<10K,10000+,Unlikely
+Retail,Tier 1,<10K,<1000,Very Unlikely
+Catering,Tier 2,50K-1L,1000-5000,Very Likely
+E-commerce,Tier 3,1L-5L,<1000,Unlikely
+Retail,Tier 3,50K-1L,<1000,Unlikely
+Restaurant,Tier 1,<10K,10000+,Likely
+Restaurant,Tier 1,5L+,10000+,Neutral
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Neutral
+Retail,Tier 2,50K-1L,5000-10000,Unlikely
+E-commerce,Tier 2,10K-50K,5000-10000,Very Unlikely
+Catering,Tier 1,<10K,1000-5000,Very Likely
+Catering,Tier 1,5L+,5000-10000,Very Likely
+E-commerce,Tier 3,50K-1L,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Unlikely
+Catering,Tier 3,5L+,10000+,Very Likely
+Retail,Tier 2,<10K,5000-10000,Neutral
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Very Unlikely
+Retail,Tier 3,50K-1L,1000-5000,Likely
+Restaurant,Tier 1,10K-50K,<1000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 1,<10K,5000-10000,Very Likely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,<1000,Unlikely
+Cloud Kitchen,Tier 3,<10K,5000-10000,Unlikely
+Retail,Tier 2,<10K,<1000,Neutral
+Restaurant,Tier 1,5L+,1000-5000,Neutral
+E-commerce,Tier 1,10K-50K,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Neutral
+Catering,Tier 2,5L+,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,5L+,1000-5000,Neutral
+Catering,Tier 2,1L-5L,10000+,Neutral
+Retail,Tier 2,5L+,1000-5000,Unlikely
+Catering,Tier 2,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 1,10K-50K,1000-5000,Likely
+Restaurant,Tier 2,5L+,<1000,Likely
+Catering,Tier 2,50K-1L,1000-5000,Very Likely
+Catering,Tier 1,50K-1L,1000-5000,Neutral
+Restaurant,Tier 2,50K-1L,5000-10000,Neutral
+E-commerce,Tier 1,50K-1L,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Likely
+Catering,Tier 3,50K-1L,1000-5000,Very Likely
+Restaurant,Tier 3,1L-5L,10000+,Very Unlikely
+Retail,Tier 3,1L-5L,1000-5000,Neutral
+Restaurant,Tier 3,50K-1L,5000-10000,Likely
+Retail,Tier 2,10K-50K,10000+,Very Likely
+E-commerce,Tier 3,50K-1L,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Likely
+Restaurant,Tier 2,50K-1L,<1000,Very Likely
+Catering,Tier 3,10K-50K,10000+,Very Unlikely
+E-commerce,Tier 1,<10K,1000-5000,Unlikely
+Restaurant,Tier 2,<10K,5000-10000,Very Likely
+Catering,Tier 2,1L-5L,1000-5000,Very Likely
+Restaurant,Tier 3,1L-5L,<1000,Neutral
+Retail,Tier 2,10K-50K,<1000,Likely
+Restaurant,Tier 1,5L+,10000+,Neutral
+Restaurant,Tier 2,<10K,<1000,Unlikely
+Restaurant,Tier 1,1L-5L,<1000,Very Likely
+E-commerce,Tier 2,<10K,1000-5000,Neutral
+Restaurant,Tier 3,10K-50K,<1000,Likely
+Catering,Tier 1,10K-50K,<1000,Unlikely
+Retail,Tier 2,5L+,5000-10000,Very Unlikely
+Retail,Tier 2,5L+,<1000,Neutral
+Restaurant,Tier 2,10K-50K,5000-10000,Unlikely
+E-commerce,Tier 1,1L-5L,<1000,Very Unlikely
+E-commerce,Tier 1,<10K,<1000,Neutral
+Catering,Tier 1,50K-1L,10000+,Unlikely
+Restaurant,Tier 3,5L+,10000+,Unlikely
+Retail,Tier 3,50K-1L,5000-10000,Neutral
+E-commerce,Tier 1,1L-5L,<1000,Unlikely
+Restaurant,Tier 2,5L+,1000-5000,Very Likely
+E-commerce,Tier 3,50K-1L,10000+,Neutral
+E-commerce,Tier 1,1L-5L,1000-5000,Unlikely
+Retail,Tier 2,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Very Unlikely
+Catering,Tier 2,5L+,<1000,Very Likely
+Catering,Tier 2,10K-50K,10000+,Neutral
+Retail,Tier 2,<10K,1000-5000,Unlikely
+E-commerce,Tier 2,50K-1L,10000+,Unlikely
+Restaurant,Tier 3,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 3,10K-50K,<1000,Very Likely
+Retail,Tier 3,1L-5L,<1000,Very Unlikely
+Catering,Tier 1,10K-50K,5000-10000,Very Unlikely
+E-commerce,Tier 3,5L+,5000-10000,Very Likely
+Catering,Tier 2,5L+,5000-10000,Neutral
+Restaurant,Tier 3,10K-50K,10000+,Unlikely
+Catering,Tier 2,1L-5L,<1000,Neutral
+Catering,Tier 1,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 2,5L+,10000+,Likely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Likely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Very Likely
+Catering,Tier 1,50K-1L,1000-5000,Very Unlikely
+Retail,Tier 3,<10K,<1000,Neutral
+Catering,Tier 3,5L+,10000+,Unlikely
+Retail,Tier 1,50K-1L,1000-5000,Likely
+Retail,Tier 2,10K-50K,1000-5000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,10000+,Likely
+E-commerce,Tier 1,10K-50K,5000-10000,Likely
+Restaurant,Tier 3,1L-5L,10000+,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Very Unlikely
+E-commerce,Tier 3,10K-50K,1000-5000,Very Likely
+Restaurant,Tier 1,10K-50K,1000-5000,Neutral
+Catering,Tier 3,10K-50K,<1000,Very Likely
+Catering,Tier 3,1L-5L,<1000,Neutral
+Cloud Kitchen,Tier 3,50K-1L,<1000,Neutral
+Restaurant,Tier 3,10K-50K,10000+,Very Unlikely
+Cloud Kitchen,Tier 1,10K-50K,1000-5000,Unlikely
+Retail,Tier 2,<10K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,<10K,10000+,Very Likely
+Cloud Kitchen,Tier 1,50K-1L,<1000,Neutral
+Catering,Tier 1,50K-1L,10000+,Likely
+Catering,Tier 2,5L+,<1000,Likely
+Catering,Tier 3,<10K,1000-5000,Neutral
+Retail,Tier 3,5L+,5000-10000,Very Unlikely
+Catering,Tier 3,1L-5L,<1000,Unlikely
+Restaurant,Tier 2,5L+,1000-5000,Very Unlikely
+E-commerce,Tier 3,10K-50K,1000-5000,Neutral
+Restaurant,Tier 2,5L+,5000-10000,Neutral
+Restaurant,Tier 3,50K-1L,1000-5000,Unlikely
+Catering,Tier 3,1L-5L,1000-5000,Very Likely
+E-commerce,Tier 1,10K-50K,<1000,Very Likely
+E-commerce,Tier 2,5L+,<1000,Unlikely
+E-commerce,Tier 1,1L-5L,5000-10000,Very Likely
+Retail,Tier 1,1L-5L,5000-10000,Likely
+Catering,Tier 1,10K-50K,1000-5000,Very Likely
+E-commerce,Tier 2,5L+,<1000,Very Likely
+Retail,Tier 2,1L-5L,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Likely
+Cloud Kitchen,Tier 1,<10K,10000+,Very Likely
+Retail,Tier 3,1L-5L,5000-10000,Likely
+Retail,Tier 1,<10K,1000-5000,Unlikely
+Catering,Tier 2,5L+,<1000,Very Unlikely
+Catering,Tier 2,5L+,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,5L+,10000+,Very Unlikely
+E-commerce,Tier 1,50K-1L,<1000,Unlikely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 1,1L-5L,10000+,Very Unlikely
+E-commerce,Tier 3,10K-50K,5000-10000,Neutral
+Catering,Tier 1,<10K,<1000,Very Unlikely
+Restaurant,Tier 3,50K-1L,<1000,Very Unlikely
+Restaurant,Tier 1,5L+,<1000,Neutral
+Retail,Tier 3,5L+,1000-5000,Very Likely
+Catering,Tier 2,10K-50K,5000-10000,Very Likely
+E-commerce,Tier 3,10K-50K,1000-5000,Neutral
+Restaurant,Tier 2,50K-1L,<1000,Likely
+E-commerce,Tier 2,<10K,10000+,Very Unlikely
+Restaurant,Tier 3,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 1,50K-1L,1000-5000,Neutral
+Restaurant,Tier 1,1L-5L,5000-10000,Neutral
+Catering,Tier 1,1L-5L,10000+,Likely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Very Likely
+E-commerce,Tier 1,5L+,<1000,Unlikely
+Catering,Tier 2,50K-1L,1000-5000,Very Likely
+Catering,Tier 1,5L+,5000-10000,Very Unlikely
+Catering,Tier 2,10K-50K,5000-10000,Neutral
+Catering,Tier 2,50K-1L,5000-10000,Likely
+Catering,Tier 2,5L+,5000-10000,Very Likely
+Retail,Tier 3,50K-1L,<1000,Likely
+E-commerce,Tier 3,50K-1L,1000-5000,Very Likely
+Catering,Tier 2,5L+,<1000,Very Unlikely
+E-commerce,Tier 3,5L+,<1000,Unlikely
+Retail,Tier 1,<10K,<1000,Likely
+Retail,Tier 1,50K-1L,5000-10000,Likely
+E-commerce,Tier 2,1L-5L,5000-10000,Unlikely
+Restaurant,Tier 1,50K-1L,5000-10000,Likely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Likely
+Restaurant,Tier 2,5L+,10000+,Very Likely
+Restaurant,Tier 1,50K-1L,5000-10000,Very Likely
+Restaurant,Tier 3,50K-1L,1000-5000,Unlikely
+Catering,Tier 1,1L-5L,5000-10000,Very Unlikely
+Retail,Tier 1,5L+,5000-10000,Likely
+Restaurant,Tier 2,50K-1L,<1000,Very Unlikely
+Retail,Tier 2,10K-50K,<1000,Unlikely
+E-commerce,Tier 2,<10K,<1000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Very Likely
+E-commerce,Tier 3,50K-1L,10000+,Likely
+E-commerce,Tier 3,10K-50K,10000+,Neutral
+Catering,Tier 3,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,50K-1L,5000-10000,Likely
+E-commerce,Tier 2,5L+,1000-5000,Very Unlikely
+E-commerce,Tier 2,5L+,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Unlikely
+E-commerce,Tier 1,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,<10K,10000+,Very Unlikely
+E-commerce,Tier 2,1L-5L,<1000,Unlikely
+E-commerce,Tier 1,5L+,1000-5000,Likely
+Catering,Tier 1,5L+,10000+,Unlikely
+Restaurant,Tier 3,50K-1L,<1000,Very Likely
+E-commerce,Tier 2,50K-1L,<1000,Likely
+Retail,Tier 2,10K-50K,1000-5000,Neutral
+Restaurant,Tier 3,10K-50K,5000-10000,Unlikely
+Restaurant,Tier 1,5L+,5000-10000,Unlikely
+Restaurant,Tier 1,50K-1L,5000-10000,Very Likely
+Catering,Tier 2,<10K,1000-5000,Very Likely
+E-commerce,Tier 1,1L-5L,5000-10000,Very Unlikely
+Catering,Tier 3,50K-1L,10000+,Very Unlikely
+E-commerce,Tier 3,50K-1L,10000+,Very Unlikely
+Catering,Tier 2,10K-50K,10000+,Very Likely
+Catering,Tier 3,1L-5L,10000+,Very Unlikely
+Retail,Tier 3,5L+,<1000,Very Unlikely
+Catering,Tier 2,50K-1L,10000+,Neutral
+Cloud Kitchen,Tier 3,5L+,5000-10000,Very Unlikely
+Retail,Tier 3,50K-1L,1000-5000,Unlikely
+Catering,Tier 3,5L+,5000-10000,Very Likely
+Restaurant,Tier 1,1L-5L,10000+,Likely
+Cloud Kitchen,Tier 2,10K-50K,<1000,Neutral
+Cloud Kitchen,Tier 2,1L-5L,10000+,Very Likely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Very Likely
+Retail,Tier 1,10K-50K,5000-10000,Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 2,<10K,1000-5000,Unlikely
+Restaurant,Tier 1,50K-1L,1000-5000,Very Unlikely
+Restaurant,Tier 2,50K-1L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,10000+,Very Likely
+Restaurant,Tier 3,10K-50K,1000-5000,Very Unlikely
+Retail,Tier 3,50K-1L,5000-10000,Neutral
+Catering,Tier 2,10K-50K,<1000,Neutral
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Neutral
+Restaurant,Tier 1,5L+,<1000,Very Likely
+Retail,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 3,5L+,10000+,Likely
+Restaurant,Tier 1,<10K,1000-5000,Very Unlikely
+Catering,Tier 1,50K-1L,10000+,Likely
+Restaurant,Tier 1,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,<10K,1000-5000,Unlikely
+Restaurant,Tier 1,10K-50K,<1000,Very Likely
+Retail,Tier 1,50K-1L,5000-10000,Neutral
+Restaurant,Tier 2,<10K,1000-5000,Neutral
+Catering,Tier 1,1L-5L,<1000,Unlikely
+E-commerce,Tier 3,<10K,<1000,Very Likely
+Restaurant,Tier 2,1L-5L,10000+,Very Likely
+Catering,Tier 1,10K-50K,5000-10000,Very Unlikely
+Catering,Tier 3,<10K,<1000,Neutral
+Retail,Tier 2,5L+,1000-5000,Unlikely
+Catering,Tier 3,10K-50K,<1000,Likely
+Catering,Tier 1,1L-5L,<1000,Neutral
+Catering,Tier 1,10K-50K,10000+,Very Unlikely
+Catering,Tier 1,<10K,10000+,Very Likely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,50K-1L,10000+,Neutral
+Retail,Tier 2,1L-5L,<1000,Likely
+Restaurant,Tier 3,1L-5L,<1000,Very Unlikely
+Catering,Tier 1,50K-1L,10000+,Very Unlikely
+Restaurant,Tier 3,1L-5L,<1000,Neutral
+Restaurant,Tier 2,10K-50K,<1000,Likely
+Retail,Tier 1,5L+,1000-5000,Very Unlikely
+Catering,Tier 1,5L+,10000+,Unlikely
+Catering,Tier 2,10K-50K,<1000,Very Unlikely
+E-commerce,Tier 2,5L+,10000+,Likely
+Restaurant,Tier 2,<10K,1000-5000,Very Likely
+Restaurant,Tier 2,10K-50K,10000+,Very Likely
+Cloud Kitchen,Tier 2,1L-5L,<1000,Neutral
+E-commerce,Tier 1,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,50K-1L,<1000,Very Likely
+Retail,Tier 2,1L-5L,1000-5000,Very Likely
+Retail,Tier 2,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,1000-5000,Very Likely
+E-commerce,Tier 2,<10K,10000+,Unlikely
+Restaurant,Tier 2,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 2,1L-5L,5000-10000,Unlikely
+Catering,Tier 3,50K-1L,<1000,Unlikely
+Retail,Tier 1,5L+,<1000,Neutral
+Restaurant,Tier 3,50K-1L,1000-5000,Very Likely
+Restaurant,Tier 2,50K-1L,5000-10000,Unlikely
+Catering,Tier 3,5L+,<1000,Very Unlikely
+Catering,Tier 2,<10K,10000+,Likely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Unlikely
+Retail,Tier 2,50K-1L,<1000,Very Likely
+Retail,Tier 3,1L-5L,<1000,Neutral
+E-commerce,Tier 3,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,10K-50K,1000-5000,Neutral
+Cloud Kitchen,Tier 1,<10K,10000+,Likely
+Cloud Kitchen,Tier 3,<10K,10000+,Unlikely
+Cloud Kitchen,Tier 1,5L+,<1000,Unlikely
+Retail,Tier 2,1L-5L,<1000,Very Likely
+Retail,Tier 3,1L-5L,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,5L+,<1000,Very Unlikely
+E-commerce,Tier 2,1L-5L,<1000,Likely
+Restaurant,Tier 3,<10K,1000-5000,Neutral
+Restaurant,Tier 1,<10K,<1000,Likely
+E-commerce,Tier 3,10K-50K,<1000,Unlikely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Neutral
+Retail,Tier 2,50K-1L,10000+,Very Likely
+Restaurant,Tier 3,50K-1L,1000-5000,Likely
+Catering,Tier 1,10K-50K,5000-10000,Neutral
+Catering,Tier 1,10K-50K,10000+,Neutral
+E-commerce,Tier 2,1L-5L,10000+,Neutral
+Cloud Kitchen,Tier 2,10K-50K,10000+,Very Unlikely
+Restaurant,Tier 1,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Neutral
+Restaurant,Tier 2,1L-5L,10000+,Likely
+E-commerce,Tier 1,10K-50K,<1000,Neutral
+E-commerce,Tier 2,10K-50K,<1000,Very Likely
+Catering,Tier 3,1L-5L,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Likely
+Catering,Tier 2,1L-5L,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,10000+,Neutral
+Catering,Tier 2,5L+,<1000,Unlikely
+Retail,Tier 3,<10K,5000-10000,Likely
+Retail,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 1,50K-1L,1000-5000,Likely
+Retail,Tier 3,5L+,10000+,Likely
+Restaurant,Tier 2,1L-5L,1000-5000,Likely
+Retail,Tier 3,10K-50K,<1000,Unlikely
+E-commerce,Tier 3,1L-5L,1000-5000,Neutral
+E-commerce,Tier 1,<10K,1000-5000,Unlikely
+Restaurant,Tier 3,1L-5L,1000-5000,Neutral
+Retail,Tier 3,5L+,10000+,Neutral
+Retail,Tier 2,5L+,<1000,Likely
+Retail,Tier 1,1L-5L,1000-5000,Unlikely
+Catering,Tier 1,5L+,10000+,Neutral
+Cloud Kitchen,Tier 1,10K-50K,<1000,Very Likely
+Catering,Tier 3,1L-5L,5000-10000,Neutral
+Cloud Kitchen,Tier 1,10K-50K,1000-5000,Very Likely
+Retail,Tier 3,10K-50K,<1000,Unlikely
+Retail,Tier 3,50K-1L,1000-5000,Unlikely
+Catering,Tier 2,1L-5L,5000-10000,Unlikely
+Catering,Tier 2,5L+,<1000,Neutral
+Cloud Kitchen,Tier 2,10K-50K,10000+,Very Unlikely
+E-commerce,Tier 2,50K-1L,<1000,Neutral
+Cloud Kitchen,Tier 2,1L-5L,10000+,Neutral
+Catering,Tier 3,1L-5L,<1000,Likely
+Catering,Tier 3,<10K,10000+,Likely
+Restaurant,Tier 1,<10K,5000-10000,Neutral
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 3,<10K,5000-10000,Likely
+E-commerce,Tier 2,10K-50K,<1000,Neutral
+Cloud Kitchen,Tier 3,5L+,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Very Likely
+Restaurant,Tier 1,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,5L+,10000+,Neutral
+Catering,Tier 3,<10K,10000+,Neutral
+Retail,Tier 1,10K-50K,10000+,Very Likely
+Restaurant,Tier 3,50K-1L,<1000,Likely
+Cloud Kitchen,Tier 1,1L-5L,1000-5000,Likely
+Restaurant,Tier 2,<10K,5000-10000,Likely
+Restaurant,Tier 2,10K-50K,1000-5000,Unlikely
+Retail,Tier 2,5L+,1000-5000,Very Likely
+Catering,Tier 2,<10K,10000+,Very Likely
+Restaurant,Tier 3,<10K,10000+,Likely
+Cloud Kitchen,Tier 1,1L-5L,10000+,Likely
+E-commerce,Tier 3,10K-50K,<1000,Very Unlikely
+Restaurant,Tier 2,50K-1L,1000-5000,Very Unlikely
+Restaurant,Tier 3,5L+,1000-5000,Neutral
+Retail,Tier 1,10K-50K,<1000,Neutral
+Catering,Tier 3,5L+,<1000,Very Likely
+E-commerce,Tier 1,<10K,<1000,Very Likely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Unlikely
+E-commerce,Tier 1,1L-5L,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,10000+,Very Unlikely
+Catering,Tier 2,1L-5L,10000+,Neutral
+Cloud Kitchen,Tier 1,<10K,1000-5000,Very Unlikely
+Retail,Tier 2,50K-1L,10000+,Very Unlikely
+Retail,Tier 2,10K-50K,<1000,Neutral
+Retail,Tier 2,1L-5L,5000-10000,Unlikely
+Retail,Tier 3,50K-1L,10000+,Neutral
+E-commerce,Tier 3,<10K,1000-5000,Likely
+Catering,Tier 3,5L+,10000+,Likely
+Cloud Kitchen,Tier 3,5L+,10000+,Likely
+Cloud Kitchen,Tier 1,<10K,10000+,Very Likely
+Retail,Tier 1,<10K,5000-10000,Unlikely
+Retail,Tier 3,5L+,<1000,Unlikely
+Restaurant,Tier 1,50K-1L,1000-5000,Very Likely
+Catering,Tier 1,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 2,<10K,1000-5000,Likely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Likely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Unlikely
+Restaurant,Tier 2,1L-5L,5000-10000,Neutral
+Cloud Kitchen,Tier 1,1L-5L,<1000,Neutral
+E-commerce,Tier 3,<10K,1000-5000,Unlikely
+Restaurant,Tier 1,5L+,<1000,Very Likely
+Restaurant,Tier 1,50K-1L,<1000,Unlikely
+Catering,Tier 1,1L-5L,10000+,Neutral
+E-commerce,Tier 2,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 2,50K-1L,5000-10000,Unlikely
+E-commerce,Tier 2,1L-5L,10000+,Likely
+Cloud Kitchen,Tier 3,50K-1L,10000+,Likely
+Retail,Tier 1,5L+,<1000,Very Unlikely
+Restaurant,Tier 3,10K-50K,1000-5000,Neutral
+Catering,Tier 2,5L+,5000-10000,Likely
+Cloud Kitchen,Tier 3,<10K,1000-5000,Likely
+E-commerce,Tier 1,50K-1L,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,10K-50K,10000+,Unlikely
+Restaurant,Tier 2,50K-1L,1000-5000,Neutral
+E-commerce,Tier 2,50K-1L,<1000,Unlikely
+Retail,Tier 3,1L-5L,10000+,Neutral
+Cloud Kitchen,Tier 2,<10K,1000-5000,Likely
+Restaurant,Tier 2,50K-1L,10000+,Very Likely
+Catering,Tier 1,5L+,<1000,Unlikely
+E-commerce,Tier 2,5L+,<1000,Likely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Neutral
+Cloud Kitchen,Tier 1,<10K,10000+,Unlikely
+Retail,Tier 1,<10K,1000-5000,Unlikely
+Retail,Tier 3,5L+,1000-5000,Likely
+Catering,Tier 2,10K-50K,10000+,Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Very Likely
+Restaurant,Tier 3,1L-5L,<1000,Very Likely
+Restaurant,Tier 3,5L+,10000+,Likely
+Catering,Tier 2,5L+,10000+,Neutral
+Catering,Tier 2,10K-50K,10000+,Likely
+E-commerce,Tier 3,10K-50K,10000+,Very Likely
+Retail,Tier 1,<10K,1000-5000,Very Unlikely
+Restaurant,Tier 3,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 2,1L-5L,<1000,Unlikely
+Retail,Tier 1,5L+,5000-10000,Unlikely
+Catering,Tier 1,<10K,5000-10000,Very Unlikely
+E-commerce,Tier 3,1L-5L,<1000,Very Likely
+Cloud Kitchen,Tier 2,<10K,5000-10000,Unlikely
+E-commerce,Tier 3,<10K,<1000,Likely
+E-commerce,Tier 3,5L+,1000-5000,Likely
+Retail,Tier 3,<10K,10000+,Very Likely
+E-commerce,Tier 1,10K-50K,10000+,Unlikely
+Restaurant,Tier 1,10K-50K,1000-5000,Likely
+Retail,Tier 2,50K-1L,10000+,Unlikely
+Restaurant,Tier 2,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Likely
+Retail,Tier 3,10K-50K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Likely
+Retail,Tier 2,5L+,5000-10000,Very Likely
+Catering,Tier 1,5L+,10000+,Neutral
+E-commerce,Tier 1,<10K,10000+,Likely
+Catering,Tier 3,1L-5L,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,<10K,10000+,Unlikely
+E-commerce,Tier 3,5L+,10000+,Likely
+Retail,Tier 3,10K-50K,1000-5000,Neutral
+E-commerce,Tier 2,10K-50K,10000+,Likely
+Restaurant,Tier 1,<10K,5000-10000,Neutral
+E-commerce,Tier 3,5L+,1000-5000,Neutral
+Restaurant,Tier 2,10K-50K,10000+,Very Likely
+E-commerce,Tier 3,5L+,<1000,Unlikely
+Restaurant,Tier 3,10K-50K,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,5L+,1000-5000,Neutral
+Catering,Tier 3,50K-1L,<1000,Unlikely
+Retail,Tier 1,5L+,10000+,Very Unlikely
+E-commerce,Tier 1,5L+,10000+,Neutral
+Catering,Tier 1,<10K,1000-5000,Unlikely
+Retail,Tier 2,50K-1L,1000-5000,Very Unlikely
+Retail,Tier 2,1L-5L,10000+,Very Likely
+Restaurant,Tier 1,<10K,10000+,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,10K-50K,1000-5000,Likely
+Catering,Tier 3,1L-5L,1000-5000,Likely
+Cloud Kitchen,Tier 1,5L+,<1000,Very Unlikely
+E-commerce,Tier 3,1L-5L,5000-10000,Neutral
+Cloud Kitchen,Tier 2,<10K,10000+,Neutral
+Catering,Tier 3,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,10000+,Likely
+E-commerce,Tier 2,<10K,10000+,Neutral
+Restaurant,Tier 3,<10K,5000-10000,Neutral
+Catering,Tier 3,1L-5L,1000-5000,Likely
+Restaurant,Tier 3,50K-1L,10000+,Very Likely
+Restaurant,Tier 3,50K-1L,5000-10000,Neutral
+Restaurant,Tier 3,10K-50K,<1000,Very Unlikely
+Retail,Tier 2,<10K,5000-10000,Unlikely
+Retail,Tier 2,1L-5L,<1000,Neutral
+Restaurant,Tier 2,<10K,10000+,Neutral
+Catering,Tier 2,5L+,5000-10000,Very Likely
+E-commerce,Tier 1,<10K,5000-10000,Very Unlikely
+E-commerce,Tier 2,<10K,<1000,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Neutral
+Catering,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 2,<10K,10000+,Likely
+Restaurant,Tier 3,50K-1L,5000-10000,Neutral
+Cloud Kitchen,Tier 2,10K-50K,1000-5000,Neutral
+E-commerce,Tier 3,50K-1L,<1000,Likely
+Retail,Tier 1,50K-1L,5000-10000,Very Likely
+Retail,Tier 1,50K-1L,<1000,Neutral
+Restaurant,Tier 2,<10K,<1000,Unlikely
+E-commerce,Tier 2,<10K,<1000,Very Unlikely
+Catering,Tier 2,10K-50K,5000-10000,Unlikely
+Retail,Tier 3,5L+,5000-10000,Very Likely
+Restaurant,Tier 2,5L+,<1000,Very Unlikely
+Catering,Tier 1,5L+,1000-5000,Unlikely
+E-commerce,Tier 3,10K-50K,<1000,Unlikely
+Retail,Tier 2,5L+,1000-5000,Likely
+Catering,Tier 3,5L+,<1000,Very Likely
+Catering,Tier 3,50K-1L,10000+,Likely
+Catering,Tier 2,<10K,<1000,Very Unlikely
+Retail,Tier 3,<10K,<1000,Likely
+Retail,Tier 1,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Neutral
+E-commerce,Tier 3,50K-1L,10000+,Neutral
+Restaurant,Tier 2,<10K,1000-5000,Very Unlikely
+Catering,Tier 3,5L+,10000+,Neutral
+Cloud Kitchen,Tier 1,50K-1L,<1000,Likely
+Restaurant,Tier 3,10K-50K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Very Likely
+Retail,Tier 1,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 3,50K-1L,5000-10000,Very Unlikely
+Restaurant,Tier 3,<10K,1000-5000,Unlikely
+Restaurant,Tier 2,50K-1L,1000-5000,Unlikely
+Restaurant,Tier 2,1L-5L,10000+,Very Unlikely
+Restaurant,Tier 1,10K-50K,1000-5000,Neutral
+Restaurant,Tier 1,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Very Likely
+Catering,Tier 2,1L-5L,1000-5000,Likely
+Retail,Tier 1,1L-5L,1000-5000,Unlikely
+Retail,Tier 1,10K-50K,<1000,Very Unlikely
+Retail,Tier 1,<10K,1000-5000,Neutral
+Retail,Tier 2,50K-1L,1000-5000,Likely
+Cloud Kitchen,Tier 3,1L-5L,<1000,Unlikely
+E-commerce,Tier 1,10K-50K,<1000,Neutral
+Catering,Tier 3,5L+,5000-10000,Neutral
+Restaurant,Tier 1,1L-5L,1000-5000,Neutral
+E-commerce,Tier 3,10K-50K,5000-10000,Very Unlikely
+Retail,Tier 2,<10K,5000-10000,Very Likely
+E-commerce,Tier 2,<10K,<1000,Neutral
+Catering,Tier 1,1L-5L,10000+,Likely
+Restaurant,Tier 3,1L-5L,5000-10000,Unlikely
+Restaurant,Tier 2,50K-1L,10000+,Likely
+Catering,Tier 1,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 1,1L-5L,<1000,Very Unlikely
+Retail,Tier 2,50K-1L,1000-5000,Likely
+Restaurant,Tier 2,50K-1L,1000-5000,Very Likely
+E-commerce,Tier 1,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,<10K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,10K-50K,<1000,Likely
+Catering,Tier 3,10K-50K,10000+,Very Unlikely
+Retail,Tier 1,<10K,1000-5000,Very Likely
+Cloud Kitchen,Tier 2,1L-5L,<1000,Very Likely
+Restaurant,Tier 1,10K-50K,5000-10000,Very Likely
+Catering,Tier 2,1L-5L,1000-5000,Unlikely
+E-commerce,Tier 3,1L-5L,10000+,Very Likely
+Catering,Tier 3,50K-1L,<1000,Very Likely
+E-commerce,Tier 2,<10K,1000-5000,Unlikely
+Catering,Tier 2,1L-5L,1000-5000,Neutral
+Catering,Tier 1,5L+,1000-5000,Very Unlikely
+Catering,Tier 3,<10K,10000+,Very Likely
+E-commerce,Tier 1,10K-50K,<1000,Very Unlikely
+E-commerce,Tier 1,50K-1L,5000-10000,Likely
+Catering,Tier 1,10K-50K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,10K-50K,5000-10000,Unlikely
+Retail,Tier 1,<10K,<1000,Very Unlikely
+Retail,Tier 1,10K-50K,5000-10000,Very Unlikely
+Retail,Tier 1,1L-5L,10000+,Very Unlikely
+E-commerce,Tier 1,10K-50K,<1000,Neutral
+E-commerce,Tier 1,50K-1L,1000-5000,Neutral
+Cloud Kitchen,Tier 1,50K-1L,10000+,Likely
+Retail,Tier 3,5L+,1000-5000,Unlikely
+Retail,Tier 1,50K-1L,5000-10000,Very Unlikely
+Catering,Tier 2,10K-50K,10000+,Very Unlikely
+E-commerce,Tier 1,50K-1L,<1000,Very Unlikely
+Retail,Tier 1,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,<1000,Likely
+Retail,Tier 2,<10K,10000+,Very Likely
+E-commerce,Tier 2,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Very Unlikely
+Catering,Tier 3,10K-50K,10000+,Likely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Very Likely
+Restaurant,Tier 3,10K-50K,1000-5000,Likely
+Restaurant,Tier 2,1L-5L,10000+,Neutral
+E-commerce,Tier 1,1L-5L,<1000,Very Likely
+Retail,Tier 2,1L-5L,1000-5000,Likely
+E-commerce,Tier 1,<10K,10000+,Neutral
+E-commerce,Tier 3,<10K,1000-5000,Likely
+E-commerce,Tier 2,10K-50K,1000-5000,Likely
+E-commerce,Tier 1,50K-1L,<1000,Very Likely
+Catering,Tier 1,10K-50K,1000-5000,Neutral
+Catering,Tier 3,5L+,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,<10K,10000+,Unlikely
+Restaurant,Tier 3,1L-5L,1000-5000,Very Likely
+E-commerce,Tier 2,<10K,1000-5000,Neutral
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Likely
+Restaurant,Tier 3,5L+,10000+,Neutral
+Retail,Tier 2,5L+,10000+,Unlikely
+Catering,Tier 2,<10K,5000-10000,Unlikely
+Restaurant,Tier 2,1L-5L,5000-10000,Very Unlikely
+Retail,Tier 3,5L+,<1000,Very Unlikely
+Restaurant,Tier 3,10K-50K,<1000,Unlikely
+Catering,Tier 1,10K-50K,1000-5000,Very Likely
+Catering,Tier 1,1L-5L,1000-5000,Very Likely
+Cloud Kitchen,Tier 3,<10K,1000-5000,Likely
+E-commerce,Tier 2,5L+,1000-5000,Very Unlikely
+Restaurant,Tier 2,<10K,<1000,Likely
+Restaurant,Tier 2,10K-50K,10000+,Very Unlikely
+Retail,Tier 1,5L+,1000-5000,Unlikely
+Catering,Tier 2,<10K,10000+,Very Likely
+Restaurant,Tier 1,50K-1L,1000-5000,Very Likely
+Catering,Tier 1,1L-5L,5000-10000,Unlikely
+Restaurant,Tier 2,1L-5L,1000-5000,Likely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Likely
+E-commerce,Tier 3,10K-50K,1000-5000,Neutral
+Restaurant,Tier 3,5L+,<1000,Very Unlikely
+Catering,Tier 2,1L-5L,5000-10000,Likely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Unlikely
+Restaurant,Tier 1,50K-1L,1000-5000,Likely
+Retail,Tier 1,10K-50K,10000+,Very Likely
+E-commerce,Tier 1,10K-50K,5000-10000,Very Unlikely
+Restaurant,Tier 1,<10K,1000-5000,Neutral
+Cloud Kitchen,Tier 3,1L-5L,10000+,Very Unlikely
+Retail,Tier 2,<10K,10000+,Very Likely
+Cloud Kitchen,Tier 3,50K-1L,<1000,Very Likely
+Cloud Kitchen,Tier 1,5L+,10000+,Very Likely
+Retail,Tier 1,5L+,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Unlikely
+Retail,Tier 1,5L+,<1000,Neutral
+Restaurant,Tier 2,5L+,1000-5000,Very Likely
+Retail,Tier 1,5L+,5000-10000,Very Likely
+Retail,Tier 2,50K-1L,10000+,Likely
+E-commerce,Tier 1,5L+,<1000,Neutral
+Retail,Tier 2,5L+,5000-10000,Very Unlikely
+Retail,Tier 3,5L+,1000-5000,Neutral
+Restaurant,Tier 1,<10K,10000+,Neutral
+E-commerce,Tier 2,50K-1L,10000+,Neutral
+Catering,Tier 3,10K-50K,<1000,Very Likely
+Restaurant,Tier 1,<10K,10000+,Very Likely
+Restaurant,Tier 1,1L-5L,10000+,Unlikely
+Catering,Tier 1,50K-1L,10000+,Very Unlikely
+Retail,Tier 2,50K-1L,10000+,Likely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Neutral
+E-commerce,Tier 3,1L-5L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 2,10K-50K,1000-5000,Unlikely
+Restaurant,Tier 1,5L+,<1000,Likely
+Restaurant,Tier 1,50K-1L,10000+,Neutral
+E-commerce,Tier 1,5L+,1000-5000,Likely
+Restaurant,Tier 1,5L+,10000+,Unlikely
+Restaurant,Tier 1,1L-5L,1000-5000,Very Likely
+E-commerce,Tier 1,10K-50K,1000-5000,Very Unlikely
+E-commerce,Tier 1,<10K,<1000,Neutral
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 3,5L+,5000-10000,Unlikely
+Restaurant,Tier 3,10K-50K,1000-5000,Likely
+Catering,Tier 3,1L-5L,<1000,Very Unlikely
+Retail,Tier 1,<10K,10000+,Neutral
+Retail,Tier 3,1L-5L,10000+,Very Likely
+Retail,Tier 1,<10K,1000-5000,Very Likely
+Catering,Tier 3,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 2,<10K,<1000,Likely
+Catering,Tier 3,<10K,5000-10000,Unlikely
+Catering,Tier 3,<10K,10000+,Likely
+Retail,Tier 1,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 3,10K-50K,10000+,Likely
+Restaurant,Tier 2,5L+,<1000,Very Unlikely
+Retail,Tier 1,<10K,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Likely
+E-commerce,Tier 1,<10K,5000-10000,Very Unlikely
+Restaurant,Tier 1,<10K,<1000,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Unlikely
+Retail,Tier 1,5L+,1000-5000,Likely
+E-commerce,Tier 1,<10K,10000+,Neutral
+Restaurant,Tier 1,<10K,5000-10000,Likely
+Catering,Tier 2,5L+,5000-10000,Neutral
+Retail,Tier 3,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,5L+,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,1000-5000,Very Likely
+Retail,Tier 1,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Very Unlikely
+E-commerce,Tier 2,<10K,1000-5000,Unlikely
+Restaurant,Tier 3,5L+,10000+,Likely
+E-commerce,Tier 2,50K-1L,10000+,Neutral
+Cloud Kitchen,Tier 1,1L-5L,<1000,Unlikely
+Catering,Tier 3,5L+,1000-5000,Very Unlikely
+Restaurant,Tier 3,10K-50K,10000+,Likely
+Restaurant,Tier 1,<10K,<1000,Very Likely
+Retail,Tier 3,<10K,1000-5000,Likely
+Retail,Tier 2,10K-50K,5000-10000,Neutral
+Catering,Tier 2,10K-50K,10000+,Likely
+Restaurant,Tier 2,5L+,<1000,Very Likely
+Catering,Tier 2,10K-50K,5000-10000,Very Unlikely
+Retail,Tier 1,1L-5L,1000-5000,Unlikely
+Retail,Tier 3,50K-1L,1000-5000,Neutral
+Restaurant,Tier 2,10K-50K,1000-5000,Very Likely
+E-commerce,Tier 1,10K-50K,10000+,Neutral
+Cloud Kitchen,Tier 3,1L-5L,<1000,Likely
+Retail,Tier 3,<10K,5000-10000,Neutral
+Retail,Tier 1,<10K,<1000,Very Likely
+E-commerce,Tier 1,5L+,10000+,Unlikely
+E-commerce,Tier 2,1L-5L,<1000,Unlikely
+Catering,Tier 3,50K-1L,10000+,Neutral
+Catering,Tier 3,50K-1L,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Neutral
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Likely
+Restaurant,Tier 2,<10K,<1000,Unlikely
+Catering,Tier 3,50K-1L,1000-5000,Unlikely
+Retail,Tier 1,50K-1L,5000-10000,Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 2,1L-5L,5000-10000,Very Unlikely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Likely
+Catering,Tier 3,10K-50K,1000-5000,Neutral
+E-commerce,Tier 3,1L-5L,10000+,Neutral
+Cloud Kitchen,Tier 1,5L+,<1000,Likely
+Cloud Kitchen,Tier 2,5L+,10000+,Unlikely
+Restaurant,Tier 2,<10K,10000+,Very Unlikely
+Catering,Tier 2,50K-1L,1000-5000,Likely
+E-commerce,Tier 3,10K-50K,<1000,Likely
+Retail,Tier 2,<10K,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,50K-1L,10000+,Neutral
+Cloud Kitchen,Tier 1,1L-5L,1000-5000,Unlikely
+Retail,Tier 3,5L+,<1000,Neutral
+E-commerce,Tier 3,10K-50K,10000+,Likely
+E-commerce,Tier 2,5L+,<1000,Unlikely
+Catering,Tier 3,1L-5L,1000-5000,Very Likely
+Catering,Tier 1,50K-1L,1000-5000,Likely
+Restaurant,Tier 2,1L-5L,1000-5000,Neutral
+Cloud Kitchen,Tier 1,1L-5L,<1000,Neutral
+Catering,Tier 2,5L+,5000-10000,Neutral
+E-commerce,Tier 3,10K-50K,<1000,Very Unlikely
+Retail,Tier 2,1L-5L,5000-10000,Likely
+E-commerce,Tier 2,5L+,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,10000+,Neutral
+E-commerce,Tier 1,50K-1L,5000-10000,Neutral
+Restaurant,Tier 2,50K-1L,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,<10K,1000-5000,Unlikely
+Retail,Tier 3,5L+,5000-10000,Likely
+Restaurant,Tier 1,10K-50K,10000+,Very Likely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 1,50K-1L,5000-10000,Likely
+Restaurant,Tier 3,10K-50K,10000+,Very Likely
+Restaurant,Tier 2,5L+,10000+,Neutral
+Cloud Kitchen,Tier 1,<10K,1000-5000,Neutral
+Catering,Tier 1,50K-1L,<1000,Unlikely
+Restaurant,Tier 2,10K-50K,<1000,Very Likely
+Restaurant,Tier 1,10K-50K,1000-5000,Neutral
+Retail,Tier 3,10K-50K,10000+,Neutral
+E-commerce,Tier 3,5L+,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Likely
+Cloud Kitchen,Tier 3,5L+,<1000,Neutral
+Catering,Tier 1,1L-5L,5000-10000,Very Unlikely
+Catering,Tier 2,10K-50K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Likely
+Catering,Tier 2,5L+,10000+,Very Likely
+Retail,Tier 3,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 2,10K-50K,10000+,Very Unlikely
+Catering,Tier 3,5L+,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,10000+,Likely
+E-commerce,Tier 3,1L-5L,1000-5000,Very Likely
+Restaurant,Tier 1,5L+,10000+,Very Likely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Likely
+Restaurant,Tier 2,10K-50K,10000+,Very Unlikely
+Catering,Tier 2,10K-50K,5000-10000,Unlikely
+Restaurant,Tier 2,<10K,<1000,Very Unlikely
+Cloud Kitchen,Tier 2,5L+,<1000,Very Likely
+E-commerce,Tier 3,10K-50K,<1000,Very Unlikely
+Catering,Tier 3,1L-5L,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Neutral
+Catering,Tier 1,50K-1L,10000+,Very Unlikely
+Retail,Tier 3,10K-50K,<1000,Likely
+Restaurant,Tier 3,50K-1L,<1000,Neutral
+Retail,Tier 3,50K-1L,<1000,Likely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Likely
+E-commerce,Tier 3,1L-5L,1000-5000,Likely
+Catering,Tier 1,1L-5L,5000-10000,Very Unlikely
+Restaurant,Tier 2,<10K,1000-5000,Very Likely
+Catering,Tier 1,<10K,10000+,Neutral
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Unlikely
+Catering,Tier 2,5L+,5000-10000,Very Likely
+Restaurant,Tier 1,50K-1L,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,<10K,10000+,Likely
+Catering,Tier 1,1L-5L,10000+,Unlikely
+E-commerce,Tier 1,50K-1L,5000-10000,Neutral
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,50K-1L,5000-10000,Very Likely
+E-commerce,Tier 3,10K-50K,10000+,Unlikely
+Retail,Tier 1,50K-1L,10000+,Very Unlikely
+Restaurant,Tier 2,<10K,<1000,Neutral
+Retail,Tier 2,1L-5L,1000-5000,Unlikely
+Catering,Tier 3,1L-5L,<1000,Likely
+E-commerce,Tier 3,<10K,10000+,Neutral
+Retail,Tier 3,10K-50K,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,<10K,10000+,Unlikely
+Catering,Tier 3,50K-1L,1000-5000,Very Likely
+Catering,Tier 2,<10K,<1000,Very Likely
+Retail,Tier 3,<10K,<1000,Very Likely
+Retail,Tier 1,10K-50K,5000-10000,Very Unlikely
+E-commerce,Tier 1,50K-1L,<1000,Very Likely
+Restaurant,Tier 2,5L+,<1000,Likely
+Retail,Tier 1,5L+,10000+,Likely
+Retail,Tier 2,1L-5L,<1000,Neutral
+Cloud Kitchen,Tier 2,<10K,<1000,Very Likely
+Catering,Tier 1,1L-5L,<1000,Very Likely
+Restaurant,Tier 3,10K-50K,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 1,<10K,10000+,Neutral
+E-commerce,Tier 2,10K-50K,<1000,Very Likely
+Retail,Tier 1,10K-50K,5000-10000,Unlikely
+Retail,Tier 2,<10K,5000-10000,Very Unlikely
+E-commerce,Tier 3,10K-50K,10000+,Neutral
+Retail,Tier 3,<10K,1000-5000,Neutral
+Restaurant,Tier 3,<10K,<1000,Very Likely
+Retail,Tier 1,50K-1L,5000-10000,Neutral
+Catering,Tier 2,1L-5L,10000+,Unlikely
+Retail,Tier 3,10K-50K,10000+,Neutral
+Cloud Kitchen,Tier 2,10K-50K,10000+,Likely
+Restaurant,Tier 2,50K-1L,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Very Unlikely
+Catering,Tier 2,5L+,<1000,Very Likely
+Restaurant,Tier 3,5L+,10000+,Very Likely
+Restaurant,Tier 2,5L+,10000+,Likely
+Restaurant,Tier 2,<10K,1000-5000,Very Unlikely
+Restaurant,Tier 3,10K-50K,<1000,Very Unlikely
+Restaurant,Tier 1,1L-5L,10000+,Very Unlikely
+Catering,Tier 3,<10K,10000+,Very Unlikely
+Retail,Tier 1,10K-50K,<1000,Neutral
+Cloud Kitchen,Tier 2,10K-50K,10000+,Unlikely
+Restaurant,Tier 2,50K-1L,<1000,Unlikely
+Retail,Tier 1,50K-1L,10000+,Likely
+Retail,Tier 2,<10K,<1000,Neutral
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Very Unlikely
+Catering,Tier 1,10K-50K,10000+,Very Unlikely
+E-commerce,Tier 2,50K-1L,1000-5000,Very Likely
+E-commerce,Tier 1,5L+,10000+,Very Likely
+Retail,Tier 3,50K-1L,10000+,Likely
+Cloud Kitchen,Tier 3,10K-50K,5000-10000,Very Unlikely
+E-commerce,Tier 2,<10K,<1000,Likely
+Retail,Tier 2,1L-5L,1000-5000,Neutral
+Catering,Tier 1,50K-1L,1000-5000,Unlikely
+E-commerce,Tier 1,10K-50K,1000-5000,Very Unlikely
+Retail,Tier 1,1L-5L,<1000,Neutral
+Retail,Tier 1,1L-5L,5000-10000,Very Unlikely
+Restaurant,Tier 3,5L+,1000-5000,Very Likely
+Catering,Tier 3,1L-5L,<1000,Likely
+Restaurant,Tier 2,10K-50K,10000+,Very Likely
+Cloud Kitchen,Tier 1,10K-50K,1000-5000,Unlikely
+Restaurant,Tier 1,50K-1L,1000-5000,Very Likely
+Restaurant,Tier 2,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 1,50K-1L,1000-5000,Very Likely
+Retail,Tier 1,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 1,1L-5L,10000+,Unlikely
+Restaurant,Tier 1,5L+,<1000,Very Likely
+Catering,Tier 1,50K-1L,<1000,Likely
+Restaurant,Tier 2,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 1,5L+,10000+,Likely
+Restaurant,Tier 2,<10K,<1000,Very Likely
+E-commerce,Tier 1,1L-5L,10000+,Very Likely
+Retail,Tier 3,5L+,<1000,Very Likely
+Cloud Kitchen,Tier 3,5L+,10000+,Very Unlikely
+Restaurant,Tier 3,10K-50K,5000-10000,Unlikely
+Catering,Tier 3,1L-5L,1000-5000,Likely
+Cloud Kitchen,Tier 2,1L-5L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,5L+,<1000,Likely
+Restaurant,Tier 1,1L-5L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,5L+,1000-5000,Very Likely
+Catering,Tier 2,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 1,5L+,<1000,Very Likely
+Catering,Tier 1,1L-5L,<1000,Likely
+Restaurant,Tier 2,1L-5L,5000-10000,Neutral
+Retail,Tier 3,5L+,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Neutral
+Retail,Tier 3,5L+,1000-5000,Very Unlikely
+Catering,Tier 3,50K-1L,10000+,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Likely
+E-commerce,Tier 1,1L-5L,10000+,Unlikely
+Retail,Tier 3,50K-1L,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,5L+,1000-5000,Very Unlikely
+Retail,Tier 3,10K-50K,10000+,Neutral
+Cloud Kitchen,Tier 1,5L+,10000+,Very Likely
+Restaurant,Tier 3,5L+,10000+,Very Unlikely
+Retail,Tier 2,50K-1L,<1000,Very Likely
+E-commerce,Tier 3,1L-5L,5000-10000,Unlikely
+E-commerce,Tier 3,5L+,10000+,Very Likely
+Catering,Tier 1,1L-5L,1000-5000,Neutral
+Cloud Kitchen,Tier 1,<10K,10000+,Very Unlikely
+Retail,Tier 3,1L-5L,<1000,Neutral
+Catering,Tier 2,10K-50K,5000-10000,Neutral
+Retail,Tier 2,10K-50K,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,<1000,Neutral
+E-commerce,Tier 2,1L-5L,<1000,Likely
+Restaurant,Tier 3,5L+,1000-5000,Likely
+E-commerce,Tier 1,50K-1L,5000-10000,Likely
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 1,5L+,1000-5000,Neutral
+Catering,Tier 1,50K-1L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,<1000,Very Unlikely
+Restaurant,Tier 1,1L-5L,5000-10000,Very Likely
+Catering,Tier 2,1L-5L,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,1L-5L,<1000,Likely
+E-commerce,Tier 3,1L-5L,1000-5000,Neutral
+Cloud Kitchen,Tier 3,<10K,10000+,Very Unlikely
+Retail,Tier 1,50K-1L,<1000,Very Unlikely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 2,<10K,<1000,Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Neutral
+Catering,Tier 3,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Likely
+Retail,Tier 1,10K-50K,1000-5000,Likely
+Retail,Tier 2,10K-50K,10000+,Neutral
+E-commerce,Tier 3,5L+,10000+,Neutral
+Catering,Tier 3,1L-5L,10000+,Unlikely
+Restaurant,Tier 1,50K-1L,<1000,Very Unlikely
+Catering,Tier 1,5L+,1000-5000,Very Likely
+Catering,Tier 1,10K-50K,1000-5000,Very Likely
+E-commerce,Tier 2,1L-5L,<1000,Very Unlikely
+Restaurant,Tier 2,5L+,5000-10000,Unlikely
+E-commerce,Tier 2,1L-5L,10000+,Very Unlikely
+Restaurant,Tier 1,10K-50K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,5L+,<1000,Very Likely
+Restaurant,Tier 3,10K-50K,10000+,Unlikely
+E-commerce,Tier 2,<10K,5000-10000,Neutral
+Catering,Tier 2,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 3,1L-5L,10000+,Neutral
+Restaurant,Tier 3,50K-1L,5000-10000,Unlikely
+Retail,Tier 2,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 2,50K-1L,1000-5000,Likely
+Cloud Kitchen,Tier 3,<10K,1000-5000,Likely
+E-commerce,Tier 1,5L+,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,5L+,1000-5000,Likely
+Catering,Tier 3,50K-1L,<1000,Neutral
+Restaurant,Tier 3,5L+,1000-5000,Likely
+Restaurant,Tier 3,10K-50K,1000-5000,Unlikely
+Catering,Tier 3,50K-1L,5000-10000,Unlikely
+Restaurant,Tier 1,1L-5L,1000-5000,Neutral
+Restaurant,Tier 3,10K-50K,10000+,Likely
+Restaurant,Tier 2,10K-50K,<1000,Likely
+E-commerce,Tier 1,10K-50K,5000-10000,Very Unlikely
+E-commerce,Tier 3,1L-5L,<1000,Very Likely
+Retail,Tier 1,<10K,10000+,Unlikely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Very Unlikely
+Catering,Tier 3,50K-1L,5000-10000,Unlikely
+Catering,Tier 2,<10K,1000-5000,Very Unlikely
+Catering,Tier 3,50K-1L,<1000,Very Likely
+Retail,Tier 3,5L+,10000+,Very Unlikely
+E-commerce,Tier 3,1L-5L,10000+,Unlikely
+Retail,Tier 3,10K-50K,5000-10000,Likely
+Catering,Tier 3,10K-50K,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Neutral
+Restaurant,Tier 3,<10K,5000-10000,Neutral
+E-commerce,Tier 3,<10K,5000-10000,Neutral
+E-commerce,Tier 1,50K-1L,5000-10000,Neutral
+Retail,Tier 1,1L-5L,10000+,Very Likely
+E-commerce,Tier 1,<10K,10000+,Likely
+Catering,Tier 1,1L-5L,5000-10000,Likely
+Catering,Tier 1,5L+,5000-10000,Unlikely
+Retail,Tier 1,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 3,10K-50K,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,10K-50K,10000+,Unlikely
+Retail,Tier 2,1L-5L,<1000,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Unlikely
+Restaurant,Tier 3,50K-1L,1000-5000,Likely
+Cloud Kitchen,Tier 1,10K-50K,10000+,Very Unlikely
+Restaurant,Tier 1,50K-1L,<1000,Unlikely
+Restaurant,Tier 3,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Unlikely
+Retail,Tier 1,50K-1L,5000-10000,Neutral
+Catering,Tier 3,5L+,5000-10000,Unlikely
+Catering,Tier 3,50K-1L,10000+,Unlikely
+Restaurant,Tier 2,1L-5L,10000+,Very Likely
+Restaurant,Tier 2,50K-1L,10000+,Neutral
+Retail,Tier 1,10K-50K,1000-5000,Very Unlikely
+E-commerce,Tier 2,50K-1L,10000+,Unlikely
+Cloud Kitchen,Tier 3,<10K,1000-5000,Very Unlikely
+Restaurant,Tier 3,10K-50K,10000+,Neutral
+Catering,Tier 2,<10K,5000-10000,Unlikely
+Retail,Tier 2,10K-50K,1000-5000,Very Likely
+Cloud Kitchen,Tier 2,1L-5L,<1000,Likely
+Retail,Tier 2,1L-5L,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,1L-5L,1000-5000,Very Likely
+Cloud Kitchen,Tier 2,<10K,<1000,Likely
+Restaurant,Tier 1,5L+,1000-5000,Likely
+Retail,Tier 3,10K-50K,5000-10000,Likely
+Retail,Tier 2,1L-5L,10000+,Unlikely
+Catering,Tier 1,10K-50K,<1000,Very Unlikely
+Catering,Tier 2,<10K,10000+,Very Unlikely
+Restaurant,Tier 3,5L+,5000-10000,Likely
+Restaurant,Tier 3,<10K,<1000,Very Likely
+E-commerce,Tier 3,10K-50K,10000+,Neutral
+Catering,Tier 2,5L+,10000+,Likely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Very Likely
+Retail,Tier 1,<10K,10000+,Very Likely
+Restaurant,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 2,10K-50K,1000-5000,Unlikely
+Retail,Tier 3,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 3,50K-1L,1000-5000,Very Unlikely
+Catering,Tier 1,<10K,<1000,Neutral
+Restaurant,Tier 1,10K-50K,10000+,Neutral
+Retail,Tier 1,10K-50K,5000-10000,Neutral
+Restaurant,Tier 1,<10K,5000-10000,Neutral
+Cloud Kitchen,Tier 3,10K-50K,10000+,Very Likely
+E-commerce,Tier 1,1L-5L,10000+,Very Likely
+Cloud Kitchen,Tier 1,<10K,<1000,Very Unlikely
+Restaurant,Tier 1,1L-5L,<1000,Unlikely
+Restaurant,Tier 1,10K-50K,5000-10000,Unlikely
+Catering,Tier 3,<10K,<1000,Likely
+Retail,Tier 1,10K-50K,1000-5000,Very Likely
+Retail,Tier 3,<10K,<1000,Neutral
+Cloud Kitchen,Tier 2,10K-50K,<1000,Neutral
+E-commerce,Tier 3,1L-5L,5000-10000,Likely
+Retail,Tier 3,1L-5L,1000-5000,Unlikely
+Catering,Tier 1,10K-50K,<1000,Neutral
+Cloud Kitchen,Tier 2,<10K,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Likely
+Catering,Tier 2,1L-5L,1000-5000,Unlikely
+E-commerce,Tier 2,1L-5L,10000+,Unlikely
+Catering,Tier 3,50K-1L,10000+,Unlikely
+E-commerce,Tier 2,10K-50K,10000+,Neutral
+Catering,Tier 3,<10K,10000+,Very Unlikely
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 3,5L+,<1000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Unlikely
+Catering,Tier 1,5L+,5000-10000,Unlikely
+Catering,Tier 1,1L-5L,<1000,Very Unlikely
+Retail,Tier 2,1L-5L,10000+,Likely
+Cloud Kitchen,Tier 1,5L+,<1000,Neutral
+Retail,Tier 1,5L+,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,10K-50K,5000-10000,Unlikely
+Retail,Tier 3,5L+,1000-5000,Very Unlikely
+Catering,Tier 2,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 2,10K-50K,<1000,Very Unlikely
+Restaurant,Tier 1,10K-50K,5000-10000,Likely
+Retail,Tier 3,1L-5L,1000-5000,Very Likely
+E-commerce,Tier 2,1L-5L,10000+,Neutral
+Restaurant,Tier 2,5L+,1000-5000,Likely
+Retail,Tier 2,1L-5L,<1000,Likely
+Retail,Tier 2,5L+,<1000,Very Likely
+Restaurant,Tier 2,1L-5L,5000-10000,Likely
+Catering,Tier 2,<10K,<1000,Very Unlikely
+Retail,Tier 1,<10K,1000-5000,Very Unlikely
+Catering,Tier 3,5L+,1000-5000,Unlikely
+Restaurant,Tier 3,1L-5L,1000-5000,Likely
+Catering,Tier 2,1L-5L,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,10K-50K,5000-10000,Neutral
+E-commerce,Tier 3,50K-1L,10000+,Very Unlikely
+Retail,Tier 3,5L+,10000+,Neutral
+E-commerce,Tier 2,50K-1L,5000-10000,Very Likely
+Catering,Tier 2,50K-1L,<1000,Very Unlikely
+Retail,Tier 3,5L+,10000+,Neutral
+Catering,Tier 3,1L-5L,<1000,Very Likely
+Cloud Kitchen,Tier 2,5L+,10000+,Neutral
+Restaurant,Tier 1,50K-1L,<1000,Very Likely
+Retail,Tier 3,1L-5L,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,<10K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,5L+,<1000,Unlikely
+Retail,Tier 1,5L+,1000-5000,Very Likely
+Catering,Tier 1,1L-5L,<1000,Very Likely
+Cloud Kitchen,Tier 1,<10K,<1000,Very Unlikely
+E-commerce,Tier 2,<10K,<1000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,<1000,Likely
+Catering,Tier 1,10K-50K,<1000,Likely
+Catering,Tier 1,5L+,1000-5000,Unlikely
+E-commerce,Tier 3,5L+,<1000,Neutral
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Very Unlikely
+Catering,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 1,50K-1L,10000+,Likely
+Restaurant,Tier 1,50K-1L,<1000,Very Likely
+Restaurant,Tier 2,<10K,10000+,Likely
+Restaurant,Tier 3,5L+,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 3,<10K,5000-10000,Very Likely
+Catering,Tier 3,1L-5L,5000-10000,Unlikely
+Retail,Tier 2,50K-1L,10000+,Very Likely
+Retail,Tier 2,5L+,1000-5000,Neutral
+Cloud Kitchen,Tier 2,50K-1L,<1000,Unlikely
+Restaurant,Tier 2,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Unlikely
+E-commerce,Tier 2,5L+,10000+,Neutral
+E-commerce,Tier 2,<10K,<1000,Very Unlikely
+Catering,Tier 2,5L+,1000-5000,Likely
+Catering,Tier 1,<10K,<1000,Neutral
+E-commerce,Tier 3,10K-50K,5000-10000,Very Unlikely
+E-commerce,Tier 2,5L+,<1000,Very Likely
+E-commerce,Tier 2,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 1,50K-1L,10000+,Unlikely
+Retail,Tier 3,<10K,1000-5000,Very Likely
+Restaurant,Tier 3,<10K,5000-10000,Very Unlikely
+E-commerce,Tier 2,1L-5L,1000-5000,Likely
+Restaurant,Tier 3,1L-5L,<1000,Neutral
+Cloud Kitchen,Tier 3,50K-1L,<1000,Very Unlikely
+Restaurant,Tier 2,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 2,5L+,1000-5000,Very Unlikely
+Retail,Tier 2,10K-50K,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,50K-1L,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Likely
+Catering,Tier 3,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 1,<10K,10000+,Neutral
+E-commerce,Tier 1,10K-50K,10000+,Very Unlikely
+Retail,Tier 3,5L+,1000-5000,Unlikely
+Retail,Tier 1,<10K,5000-10000,Very Unlikely
+E-commerce,Tier 3,<10K,10000+,Likely
+Catering,Tier 1,10K-50K,10000+,Very Likely
+E-commerce,Tier 2,5L+,1000-5000,Very Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 2,5L+,<1000,Neutral
+Restaurant,Tier 2,50K-1L,10000+,Likely
+Retail,Tier 2,<10K,<1000,Very Likely
+Retail,Tier 2,50K-1L,10000+,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Very Likely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Likely
+Catering,Tier 2,1L-5L,<1000,Likely
+E-commerce,Tier 1,1L-5L,<1000,Very Likely
+Restaurant,Tier 1,1L-5L,5000-10000,Unlikely
+Retail,Tier 1,5L+,10000+,Likely
+Catering,Tier 3,1L-5L,<1000,Very Likely
+Restaurant,Tier 1,<10K,<1000,Likely
+Catering,Tier 1,1L-5L,<1000,Likely
+Catering,Tier 3,50K-1L,5000-10000,Likely
+Retail,Tier 3,50K-1L,1000-5000,Neutral
+E-commerce,Tier 1,50K-1L,<1000,Unlikely
+Cloud Kitchen,Tier 3,5L+,5000-10000,Very Likely
+E-commerce,Tier 2,50K-1L,<1000,Very Likely
+Retail,Tier 2,5L+,10000+,Unlikely
+Retail,Tier 3,5L+,5000-10000,Unlikely
+Retail,Tier 3,1L-5L,<1000,Unlikely
+Restaurant,Tier 1,<10K,5000-10000,Unlikely
+E-commerce,Tier 3,1L-5L,<1000,Very Unlikely
+E-commerce,Tier 1,1L-5L,1000-5000,Very Likely
+Catering,Tier 2,5L+,<1000,Very Unlikely
+Catering,Tier 3,5L+,5000-10000,Likely
+Catering,Tier 1,50K-1L,10000+,Likely
+Retail,Tier 1,50K-1L,10000+,Very Likely
+E-commerce,Tier 2,1L-5L,10000+,Likely
+Retail,Tier 3,10K-50K,<1000,Unlikely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 1,50K-1L,<1000,Unlikely
+Retail,Tier 1,10K-50K,10000+,Likely
+Retail,Tier 3,50K-1L,5000-10000,Very Unlikely
+Restaurant,Tier 1,5L+,10000+,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Very Likely
+E-commerce,Tier 2,<10K,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Likely
+Catering,Tier 3,50K-1L,<1000,Very Unlikely
+Retail,Tier 1,50K-1L,<1000,Very Likely
+Restaurant,Tier 1,1L-5L,<1000,Very Unlikely
+Restaurant,Tier 3,50K-1L,5000-10000,Very Likely
+E-commerce,Tier 1,10K-50K,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Likely
+E-commerce,Tier 1,50K-1L,<1000,Very Likely
+Retail,Tier 3,50K-1L,1000-5000,Neutral
+E-commerce,Tier 1,10K-50K,5000-10000,Very Unlikely
+Restaurant,Tier 3,50K-1L,5000-10000,Very Unlikely
+Restaurant,Tier 1,50K-1L,10000+,Unlikely
+Catering,Tier 2,1L-5L,5000-10000,Very Likely
+Catering,Tier 1,<10K,1000-5000,Neutral
+Retail,Tier 1,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Unlikely
+E-commerce,Tier 3,<10K,1000-5000,Neutral
+Retail,Tier 1,50K-1L,5000-10000,Very Likely
+Catering,Tier 2,50K-1L,10000+,Neutral
+E-commerce,Tier 1,1L-5L,<1000,Very Unlikely
+Catering,Tier 1,50K-1L,<1000,Very Unlikely
+E-commerce,Tier 2,5L+,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Very Likely
+Retail,Tier 1,<10K,1000-5000,Very Likely
+E-commerce,Tier 3,1L-5L,5000-10000,Neutral
+Restaurant,Tier 3,10K-50K,1000-5000,Unlikely
+Restaurant,Tier 2,1L-5L,10000+,Very Likely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Unlikely
+E-commerce,Tier 3,50K-1L,<1000,Neutral
+E-commerce,Tier 1,5L+,<1000,Likely
+Restaurant,Tier 3,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 1,5L+,1000-5000,Unlikely
+E-commerce,Tier 1,<10K,<1000,Very Likely
+Catering,Tier 2,5L+,1000-5000,Very Unlikely
+Catering,Tier 1,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Likely
+Retail,Tier 3,<10K,<1000,Unlikely
+Catering,Tier 2,1L-5L,5000-10000,Very Unlikely
+Restaurant,Tier 1,1L-5L,10000+,Neutral
+Catering,Tier 1,50K-1L,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,<10K,<1000,Likely
+Cloud Kitchen,Tier 3,10K-50K,10000+,Unlikely
+Retail,Tier 2,50K-1L,1000-5000,Unlikely
+Catering,Tier 2,1L-5L,<1000,Neutral
+Restaurant,Tier 1,<10K,<1000,Unlikely
+Restaurant,Tier 1,5L+,1000-5000,Unlikely
+E-commerce,Tier 3,10K-50K,10000+,Unlikely
+Restaurant,Tier 1,1L-5L,10000+,Unlikely
+Retail,Tier 1,50K-1L,10000+,Unlikely
+Retail,Tier 2,<10K,<1000,Likely
+Restaurant,Tier 1,10K-50K,<1000,Very Unlikely
+Restaurant,Tier 3,<10K,10000+,Very Likely
+E-commerce,Tier 2,5L+,5000-10000,Unlikely
+Restaurant,Tier 3,50K-1L,10000+,Very Likely
+E-commerce,Tier 2,<10K,1000-5000,Very Likely
+E-commerce,Tier 1,1L-5L,<1000,Likely
+Restaurant,Tier 2,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,<10K,<1000,Unlikely
+E-commerce,Tier 1,50K-1L,5000-10000,Neutral
+Restaurant,Tier 3,1L-5L,10000+,Neutral
+Cloud Kitchen,Tier 3,5L+,1000-5000,Neutral
+Restaurant,Tier 1,5L+,<1000,Very Likely
+Restaurant,Tier 1,<10K,1000-5000,Neutral
+Restaurant,Tier 1,50K-1L,10000+,Likely
+Catering,Tier 2,10K-50K,5000-10000,Likely
+Restaurant,Tier 2,50K-1L,5000-10000,Very Likely
+Catering,Tier 2,5L+,5000-10000,Unlikely
+E-commerce,Tier 1,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,10K-50K,<1000,Unlikely
+Cloud Kitchen,Tier 1,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,10K-50K,10000+,Unlikely
+Cloud Kitchen,Tier 2,<10K,10000+,Unlikely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Very Unlikely
+Cloud Kitchen,Tier 1,<10K,5000-10000,Neutral
+Cloud Kitchen,Tier 2,<10K,10000+,Unlikely
+E-commerce,Tier 2,10K-50K,10000+,Likely
+Restaurant,Tier 2,10K-50K,10000+,Very Likely
+Retail,Tier 1,<10K,<1000,Very Likely
+Catering,Tier 2,5L+,5000-10000,Likely
+Retail,Tier 2,10K-50K,1000-5000,Unlikely
+Retail,Tier 3,50K-1L,5000-10000,Very Unlikely
+Restaurant,Tier 1,1L-5L,5000-10000,Neutral
+Restaurant,Tier 3,<10K,<1000,Very Likely
+Restaurant,Tier 3,<10K,10000+,Neutral
+Cloud Kitchen,Tier 2,1L-5L,10000+,Very Unlikely
+E-commerce,Tier 1,5L+,<1000,Very Likely
+Cloud Kitchen,Tier 2,1L-5L,<1000,Neutral
+E-commerce,Tier 1,10K-50K,<1000,Very Unlikely
+E-commerce,Tier 3,1L-5L,<1000,Neutral
+Retail,Tier 1,<10K,<1000,Unlikely
+Retail,Tier 2,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 2,50K-1L,5000-10000,Neutral
+E-commerce,Tier 2,10K-50K,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,<10K,10000+,Very Unlikely
+Retail,Tier 3,10K-50K,1000-5000,Likely
+Restaurant,Tier 1,<10K,5000-10000,Very Likely
+E-commerce,Tier 2,5L+,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Unlikely
+Retail,Tier 2,5L+,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,50K-1L,10000+,Very Unlikely
+E-commerce,Tier 2,1L-5L,1000-5000,Likely
+E-commerce,Tier 3,10K-50K,10000+,Very Likely
+Catering,Tier 3,1L-5L,5000-10000,Neutral
+Restaurant,Tier 2,50K-1L,10000+,Very Unlikely
+Catering,Tier 1,50K-1L,1000-5000,Very Likely
+Retail,Tier 2,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,<10K,5000-10000,Unlikely
+Retail,Tier 2,10K-50K,<1000,Neutral
+E-commerce,Tier 3,1L-5L,<1000,Very Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Unlikely
+Catering,Tier 1,5L+,10000+,Unlikely
+Catering,Tier 1,50K-1L,10000+,Likely
+Retail,Tier 3,50K-1L,1000-5000,Very Likely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,1L-5L,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,1000-5000,Very Unlikely
+Retail,Tier 2,<10K,5000-10000,Unlikely
+Catering,Tier 3,10K-50K,10000+,Likely
+Restaurant,Tier 1,<10K,1000-5000,Neutral
+Retail,Tier 1,1L-5L,10000+,Unlikely
+Retail,Tier 3,50K-1L,1000-5000,Neutral
+E-commerce,Tier 3,10K-50K,5000-10000,Likely
+Cloud Kitchen,Tier 3,1L-5L,5000-10000,Very Likely
+Retail,Tier 1,1L-5L,<1000,Very Unlikely
+Retail,Tier 3,1L-5L,5000-10000,Neutral
+Catering,Tier 1,10K-50K,<1000,Unlikely
+Catering,Tier 3,10K-50K,1000-5000,Neutral
+Restaurant,Tier 1,5L+,10000+,Very Likely
+E-commerce,Tier 1,5L+,5000-10000,Very Unlikely
+Restaurant,Tier 2,<10K,5000-10000,Neutral
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,10K-50K,1000-5000,Unlikely
+Catering,Tier 1,10K-50K,<1000,Likely
+E-commerce,Tier 1,5L+,1000-5000,Unlikely
+Catering,Tier 1,1L-5L,10000+,Very Unlikely
+E-commerce,Tier 2,50K-1L,1000-5000,Unlikely
+E-commerce,Tier 2,5L+,10000+,Unlikely
+E-commerce,Tier 1,10K-50K,5000-10000,Unlikely
+E-commerce,Tier 3,5L+,10000+,Unlikely
+E-commerce,Tier 3,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,10K-50K,<1000,Very Likely
+Restaurant,Tier 2,<10K,10000+,Neutral
+Retail,Tier 1,10K-50K,10000+,Likely
+Restaurant,Tier 3,5L+,1000-5000,Neutral
+E-commerce,Tier 1,1L-5L,5000-10000,Neutral
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Likely
+Catering,Tier 3,<10K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 3,5L+,5000-10000,Likely
+E-commerce,Tier 2,1L-5L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,10000+,Neutral
+Cloud Kitchen,Tier 1,<10K,10000+,Very Unlikely
+E-commerce,Tier 3,50K-1L,<1000,Very Likely
+Cloud Kitchen,Tier 2,5L+,1000-5000,Likely
+Retail,Tier 3,10K-50K,5000-10000,Very Likely
+Retail,Tier 2,1L-5L,10000+,Neutral
+Cloud Kitchen,Tier 1,5L+,5000-10000,Likely
+Catering,Tier 2,1L-5L,10000+,Neutral
+E-commerce,Tier 1,10K-50K,<1000,Very Likely
+Retail,Tier 2,50K-1L,<1000,Neutral
+Catering,Tier 3,50K-1L,5000-10000,Likely
+Cloud Kitchen,Tier 1,10K-50K,<1000,Likely
+Catering,Tier 3,1L-5L,5000-10000,Neutral
+Restaurant,Tier 3,5L+,10000+,Likely
+Retail,Tier 1,10K-50K,1000-5000,Likely
+Cloud Kitchen,Tier 1,<10K,<1000,Neutral
+E-commerce,Tier 3,1L-5L,10000+,Very Likely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Likely
+E-commerce,Tier 3,10K-50K,1000-5000,Likely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Likely
+Catering,Tier 1,1L-5L,10000+,Likely
+Catering,Tier 1,50K-1L,10000+,Neutral
+Catering,Tier 3,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 2,1L-5L,1000-5000,Very Likely
+E-commerce,Tier 2,<10K,1000-5000,Very Unlikely
+Catering,Tier 1,10K-50K,1000-5000,Likely
+Restaurant,Tier 3,5L+,5000-10000,Likely
+E-commerce,Tier 3,10K-50K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,1L-5L,10000+,Very Likely
+Restaurant,Tier 2,10K-50K,1000-5000,Unlikely
+Retail,Tier 2,<10K,<1000,Unlikely
+Restaurant,Tier 2,<10K,10000+,Very Likely
+Restaurant,Tier 1,5L+,5000-10000,Likely
+E-commerce,Tier 2,50K-1L,1000-5000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,<1000,Neutral
+Retail,Tier 1,1L-5L,5000-10000,Neutral
+Catering,Tier 3,50K-1L,5000-10000,Very Unlikely
+Catering,Tier 2,<10K,10000+,Very Likely
+Restaurant,Tier 1,<10K,5000-10000,Very Likely
+E-commerce,Tier 2,10K-50K,5000-10000,Unlikely
+E-commerce,Tier 2,5L+,5000-10000,Likely
+Catering,Tier 3,5L+,5000-10000,Very Likely
+Retail,Tier 2,5L+,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,10K-50K,1000-5000,Unlikely
+Retail,Tier 1,5L+,1000-5000,Very Likely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Unlikely
+Catering,Tier 1,10K-50K,<1000,Very Unlikely
+Cloud Kitchen,Tier 2,50K-1L,1000-5000,Very Unlikely
+E-commerce,Tier 1,10K-50K,5000-10000,Very Likely
+Restaurant,Tier 2,5L+,1000-5000,Likely
+Restaurant,Tier 2,50K-1L,1000-5000,Very Unlikely
+Catering,Tier 2,50K-1L,10000+,Very Unlikely
+E-commerce,Tier 2,50K-1L,5000-10000,Very Likely
+Retail,Tier 2,10K-50K,1000-5000,Neutral
+E-commerce,Tier 2,1L-5L,1000-5000,Unlikely
+Restaurant,Tier 2,5L+,1000-5000,Very Unlikely
+Restaurant,Tier 2,50K-1L,<1000,Neutral
+E-commerce,Tier 2,1L-5L,1000-5000,Likely
+E-commerce,Tier 1,5L+,10000+,Neutral
+Restaurant,Tier 3,5L+,5000-10000,Very Likely
+Retail,Tier 2,50K-1L,5000-10000,Likely
+Catering,Tier 3,50K-1L,1000-5000,Likely
+Catering,Tier 2,10K-50K,1000-5000,Neutral
+E-commerce,Tier 2,1L-5L,1000-5000,Very Likely
+Catering,Tier 1,1L-5L,5000-10000,Very Unlikely
+Restaurant,Tier 1,50K-1L,5000-10000,Neutral
+Restaurant,Tier 3,5L+,<1000,Very Unlikely
+E-commerce,Tier 1,50K-1L,10000+,Neutral
+E-commerce,Tier 1,5L+,<1000,Very Unlikely
+E-commerce,Tier 3,5L+,10000+,Neutral
+Retail,Tier 1,50K-1L,<1000,Likely
+Catering,Tier 2,<10K,5000-10000,Unlikely
+E-commerce,Tier 3,1L-5L,<1000,Likely
+Cloud Kitchen,Tier 3,5L+,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,5L+,1000-5000,Very Likely
+Restaurant,Tier 1,<10K,10000+,Likely
+Catering,Tier 3,10K-50K,1000-5000,Unlikely
+E-commerce,Tier 3,<10K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,<10K,10000+,Likely
+Catering,Tier 2,5L+,<1000,Neutral
+Restaurant,Tier 1,1L-5L,10000+,Very Likely
+Retail,Tier 3,<10K,1000-5000,Very Unlikely
+Catering,Tier 1,10K-50K,5000-10000,Likely
+Catering,Tier 1,50K-1L,<1000,Very Unlikely
+Retail,Tier 2,<10K,10000+,Neutral
+Catering,Tier 3,<10K,1000-5000,Unlikely
+Restaurant,Tier 3,10K-50K,<1000,Likely
+Restaurant,Tier 3,1L-5L,5000-10000,Very Unlikely
+Retail,Tier 2,<10K,<1000,Very Unlikely
+E-commerce,Tier 2,<10K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,1L-5L,<1000,Unlikely
+E-commerce,Tier 2,10K-50K,10000+,Very Unlikely
+Catering,Tier 2,<10K,1000-5000,Very Likely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Very Likely
+Retail,Tier 1,<10K,10000+,Very Unlikely
+Retail,Tier 3,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Likely
+Restaurant,Tier 2,50K-1L,5000-10000,Very Likely
+Cloud Kitchen,Tier 1,<10K,10000+,Very Unlikely
+Catering,Tier 3,10K-50K,<1000,Neutral
+Restaurant,Tier 3,5L+,<1000,Likely
+Retail,Tier 1,50K-1L,10000+,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Very Unlikely
+E-commerce,Tier 2,10K-50K,1000-5000,Unlikely
+E-commerce,Tier 3,50K-1L,5000-10000,Neutral
+Catering,Tier 1,1L-5L,5000-10000,Unlikely
+E-commerce,Tier 2,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,<1000,Neutral
+E-commerce,Tier 2,50K-1L,10000+,Very Unlikely
+Cloud Kitchen,Tier 1,<10K,<1000,Neutral
+Catering,Tier 3,1L-5L,10000+,Neutral
+Restaurant,Tier 3,1L-5L,1000-5000,Very Unlikely
+Catering,Tier 1,<10K,1000-5000,Very Likely
+Catering,Tier 3,1L-5L,<1000,Neutral
+Cloud Kitchen,Tier 2,<10K,5000-10000,Very Unlikely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,50K-1L,<1000,Neutral
+Retail,Tier 2,10K-50K,10000+,Very Likely
+Cloud Kitchen,Tier 1,5L+,10000+,Likely
+Cloud Kitchen,Tier 1,5L+,<1000,Likely
+Cloud Kitchen,Tier 2,5L+,5000-10000,Very Likely
+Restaurant,Tier 1,<10K,<1000,Neutral
+Cloud Kitchen,Tier 2,1L-5L,<1000,Very Unlikely
+Restaurant,Tier 3,10K-50K,1000-5000,Unlikely
+E-commerce,Tier 3,10K-50K,<1000,Very Unlikely
+Retail,Tier 1,10K-50K,<1000,Unlikely
+Restaurant,Tier 2,10K-50K,10000+,Unlikely
+E-commerce,Tier 2,5L+,1000-5000,Neutral
+Restaurant,Tier 3,10K-50K,10000+,Very Likely
+Restaurant,Tier 3,1L-5L,10000+,Very Unlikely
+Retail,Tier 2,5L+,5000-10000,Very Likely
+Catering,Tier 1,10K-50K,5000-10000,Likely
+Catering,Tier 3,<10K,1000-5000,Neutral
+Restaurant,Tier 1,50K-1L,1000-5000,Neutral
+Cloud Kitchen,Tier 1,50K-1L,5000-10000,Likely
+E-commerce,Tier 3,50K-1L,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Likely
+Cloud Kitchen,Tier 1,10K-50K,5000-10000,Very Unlikely
+Restaurant,Tier 2,5L+,5000-10000,Unlikely
+Restaurant,Tier 1,1L-5L,10000+,Neutral
+Restaurant,Tier 2,<10K,1000-5000,Very Unlikely
+Restaurant,Tier 3,<10K,10000+,Very Likely
+Catering,Tier 3,50K-1L,10000+,Very Likely
+Restaurant,Tier 2,50K-1L,<1000,Neutral
+Catering,Tier 3,50K-1L,10000+,Likely
+Catering,Tier 1,10K-50K,5000-10000,Likely
+Restaurant,Tier 1,1L-5L,5000-10000,Very Unlikely
+Retail,Tier 1,1L-5L,<1000,Likely
+E-commerce,Tier 3,1L-5L,<1000,Neutral
+Cloud Kitchen,Tier 1,1L-5L,<1000,Very Unlikely
+Catering,Tier 3,50K-1L,<1000,Unlikely
+E-commerce,Tier 1,<10K,<1000,Likely
+Retail,Tier 2,50K-1L,10000+,Likely
+Cloud Kitchen,Tier 3,1L-5L,<1000,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,10000+,Very Likely
+Catering,Tier 1,1L-5L,1000-5000,Likely
+Restaurant,Tier 3,5L+,<1000,Neutral
+Retail,Tier 3,<10K,<1000,Likely
+Catering,Tier 2,5L+,10000+,Unlikely
+Retail,Tier 2,10K-50K,1000-5000,Likely
+Restaurant,Tier 1,50K-1L,10000+,Very Likely
+Restaurant,Tier 2,10K-50K,10000+,Likely
+Catering,Tier 1,50K-1L,<1000,Very Unlikely
+Restaurant,Tier 1,5L+,5000-10000,Likely
+E-commerce,Tier 1,1L-5L,5000-10000,Very Likely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Very Unlikely
+Catering,Tier 2,50K-1L,<1000,Neutral
+Retail,Tier 1,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 2,5L+,5000-10000,Unlikely
+Catering,Tier 1,1L-5L,1000-5000,Very Unlikely
+Restaurant,Tier 2,5L+,5000-10000,Neutral
+Restaurant,Tier 2,10K-50K,<1000,Likely
+Restaurant,Tier 1,5L+,10000+,Very Unlikely
+Restaurant,Tier 3,<10K,1000-5000,Very Unlikely
+Retail,Tier 2,<10K,1000-5000,Very Unlikely
+E-commerce,Tier 3,<10K,10000+,Very Unlikely
+Cloud Kitchen,Tier 3,50K-1L,1000-5000,Neutral
+Retail,Tier 1,50K-1L,5000-10000,Very Likely
+Retail,Tier 1,50K-1L,10000+,Very Likely
+Cloud Kitchen,Tier 1,5L+,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 2,50K-1L,5000-10000,Neutral
+Restaurant,Tier 1,10K-50K,<1000,Neutral
+Retail,Tier 1,<10K,5000-10000,Very Unlikely
+Catering,Tier 2,5L+,<1000,Unlikely
+Cloud Kitchen,Tier 2,<10K,1000-5000,Very Unlikely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Unlikely
+E-commerce,Tier 1,5L+,<1000,Very Unlikely
+Catering,Tier 1,1L-5L,5000-10000,Unlikely
+Catering,Tier 1,10K-50K,10000+,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,10000+,Very Unlikely
+Restaurant,Tier 3,50K-1L,<1000,Unlikely
+E-commerce,Tier 1,10K-50K,1000-5000,Likely
+Catering,Tier 3,10K-50K,1000-5000,Very Likely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Neutral
+Catering,Tier 3,50K-1L,<1000,Unlikely
+E-commerce,Tier 3,50K-1L,10000+,Unlikely
+E-commerce,Tier 1,<10K,5000-10000,Neutral
+Retail,Tier 3,5L+,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,5L+,<1000,Neutral
+E-commerce,Tier 3,<10K,<1000,Very Unlikely
+Retail,Tier 3,5L+,5000-10000,Likely
+Retail,Tier 2,10K-50K,1000-5000,Likely
+Catering,Tier 1,5L+,<1000,Very Likely
+Catering,Tier 1,5L+,5000-10000,Unlikely
+Retail,Tier 2,<10K,5000-10000,Very Likely
+Catering,Tier 3,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 2,5L+,1000-5000,Likely
+Restaurant,Tier 3,5L+,1000-5000,Very Unlikely
+E-commerce,Tier 2,1L-5L,1000-5000,Very Unlikely
+Retail,Tier 1,<10K,10000+,Unlikely
+Retail,Tier 1,1L-5L,1000-5000,Very Unlikely
+E-commerce,Tier 1,<10K,10000+,Likely
+Catering,Tier 3,10K-50K,<1000,Very Likely
+Catering,Tier 3,<10K,5000-10000,Likely
+Retail,Tier 2,10K-50K,10000+,Unlikely
+Cloud Kitchen,Tier 2,10K-50K,<1000,Likely
+Catering,Tier 1,<10K,<1000,Neutral
+E-commerce,Tier 3,50K-1L,10000+,Very Likely
+Catering,Tier 2,<10K,<1000,Neutral
+E-commerce,Tier 3,5L+,<1000,Neutral
+Retail,Tier 3,5L+,10000+,Unlikely
+Catering,Tier 1,50K-1L,<1000,Very Unlikely
+E-commerce,Tier 1,10K-50K,1000-5000,Neutral
+Retail,Tier 3,50K-1L,1000-5000,Likely
+Cloud Kitchen,Tier 3,5L+,5000-10000,Very Unlikely
+E-commerce,Tier 3,50K-1L,<1000,Likely
+Cloud Kitchen,Tier 3,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 1,50K-1L,1000-5000,Very Unlikely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Unlikely
+Catering,Tier 1,<10K,1000-5000,Likely
+E-commerce,Tier 2,1L-5L,<1000,Unlikely
+Cloud Kitchen,Tier 3,5L+,<1000,Very Likely
+Restaurant,Tier 2,5L+,1000-5000,Very Likely
+Retail,Tier 1,50K-1L,5000-10000,Unlikely
+E-commerce,Tier 1,<10K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,1L-5L,10000+,Likely
+Catering,Tier 1,<10K,1000-5000,Very Likely
+Restaurant,Tier 3,5L+,5000-10000,Likely
+Cloud Kitchen,Tier 1,<10K,1000-5000,Unlikely
+Catering,Tier 1,1L-5L,5000-10000,Likely
+Cloud Kitchen,Tier 3,50K-1L,10000+,Unlikely
+E-commerce,Tier 2,10K-50K,10000+,Very Unlikely
+E-commerce,Tier 1,<10K,1000-5000,Unlikely
+E-commerce,Tier 2,10K-50K,5000-10000,Unlikely
+Restaurant,Tier 1,5L+,<1000,Very Likely
+E-commerce,Tier 1,50K-1L,10000+,Likely
+Catering,Tier 1,50K-1L,1000-5000,Very Likely
+Cloud Kitchen,Tier 1,<10K,1000-5000,Neutral
+Retail,Tier 2,50K-1L,5000-10000,Unlikely
+Catering,Tier 2,<10K,1000-5000,Neutral
+Catering,Tier 1,<10K,10000+,Very Likely
+E-commerce,Tier 1,10K-50K,1000-5000,Likely
+Restaurant,Tier 2,50K-1L,1000-5000,Very Likely
+Cloud Kitchen,Tier 3,<10K,<1000,Likely
+Restaurant,Tier 3,10K-50K,<1000,Likely
+Cloud Kitchen,Tier 2,1L-5L,10000+,Very Unlikely
+Cloud Kitchen,Tier 1,10K-50K,5000-10000,Unlikely
+Restaurant,Tier 1,10K-50K,<1000,Very Likely
+Catering,Tier 3,<10K,5000-10000,Likely
+Cloud Kitchen,Tier 3,5L+,10000+,Very Likely
+Restaurant,Tier 2,5L+,<1000,Very Likely
+Cloud Kitchen,Tier 3,5L+,5000-10000,Likely
+Retail,Tier 2,10K-50K,<1000,Neutral
+Catering,Tier 3,<10K,10000+,Unlikely
+E-commerce,Tier 3,50K-1L,10000+,Unlikely
+Cloud Kitchen,Tier 3,10K-50K,<1000,Very Unlikely
+Retail,Tier 1,10K-50K,5000-10000,Very Unlikely
+E-commerce,Tier 1,<10K,1000-5000,Very Unlikely
+E-commerce,Tier 1,1L-5L,1000-5000,Unlikely
+Cloud Kitchen,Tier 3,10K-50K,<1000,Neutral
+Restaurant,Tier 2,1L-5L,5000-10000,Unlikely
+Cloud Kitchen,Tier 2,1L-5L,1000-5000,Unlikely
+Retail,Tier 2,5L+,10000+,Unlikely
+E-commerce,Tier 2,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 1,1L-5L,1000-5000,Neutral
+Restaurant,Tier 1,<10K,5000-10000,Very Unlikely
+Cloud Kitchen,Tier 3,5L+,<1000,Very Likely
+Catering,Tier 3,<10K,5000-10000,Very Unlikely
+Restaurant,Tier 2,10K-50K,1000-5000,Very Unlikely
+Retail,Tier 1,1L-5L,<1000,Very Likely
+E-commerce,Tier 2,<10K,5000-10000,Unlikely
+Cloud Kitchen,Tier 3,50K-1L,10000+,Neutral
+Restaurant,Tier 3,<10K,1000-5000,Neutral
+Catering,Tier 2,1L-5L,<1000,Very Unlikely
+Restaurant,Tier 3,5L+,5000-10000,Very Likely
+Catering,Tier 2,5L+,10000+,Likely
+Retail,Tier 1,1L-5L,1000-5000,Unlikely
